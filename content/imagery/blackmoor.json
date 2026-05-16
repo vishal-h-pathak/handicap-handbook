@@ -1,0 +1,150 @@
+{
+  "course_id": "blackmoor",
+  "images": [
+    {
+      "url": "https://img1.wsimg.com/isteam/ip/fc55540e-fb93-4e3f-84cf-1fc699f31634/blackmoor-golf-club-no-14-1800x800.jpeg/:/rs=w:2558,m",
+      "alt": "Blackmoor Golf Club hole 14 — fairway flanked by Lowcountry oaks",
+      "caption": "The picturesque 14th, surrounded by a large lake — the visual signature of Blackmoor's back-nine 'beautiful trifecta' (14-15-16).",
+      "type": "hole",
+      "hole_number": 14,
+      "source": "Blackmoor Golf Club official site",
+      "source_page_url": "https://blackmoor.com/",
+      "attribution": "Course-provided",
+      "rights_note": "official course media",
+      "priority": 1
+    },
+    {
+      "url": "https://img1.wsimg.com/isteam/ip/fc55540e-fb93-4e3f-84cf-1fc699f31634/BLK-13.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:2558,m",
+      "alt": "Blackmoor Golf Club hole 13 — the par 4 that runs alongside the pre-Civil War Longwood Plantation cemetery",
+      "caption": "The 13th hole, where a fenced antebellum graveyard parallels the fairway — Blackmoor's most storied moment.",
+      "type": "hole",
+      "hole_number": 13,
+      "source": "Blackmoor Golf Club official site",
+      "source_page_url": "https://blackmoor.com/",
+      "attribution": "Course-provided",
+      "rights_note": "official course media",
+      "priority": 1
+    },
+    {
+      "url": "https://golf-pass-brightspot.s3.amazonaws.com/13/c7/874ef0480168c518b407222a2023/457.jpg",
+      "alt": "Aerial view of Blackmoor Golf Club showing the Gary Player routing through Lowcountry pines and lagoons",
+      "caption": "Aerial perspective on Gary Player's only Grand Strand design, set on the antebellum Longwood Plantation.",
+      "type": "aerial",
+      "hole_number": null,
+      "source": "GolfPass",
+      "source_page_url": "https://www.golfpass.com/travel-advisor/courses/1489-blackmoor-golf-club",
+      "attribution": "Source: GolfPass (alt text on file: 'Blackmoor GC: Aerial view')",
+      "rights_note": "published editorial — verify reuse rights with GolfPass before commercial publication",
+      "priority": 1
+    },
+    {
+      "url": "https://img1.wsimg.com/isteam/ip/fc55540e-fb93-4e3f-84cf-1fc699f31634/Blackmoor-fairway-1800-2.jpg/:/rs=w:1800,m",
+      "alt": "Wide Blackmoor fairway lined with moss-draped oaks and pines",
+      "caption": "The Lowcountry vocabulary of Blackmoor — flowing fairways, lofty pines, and ever-changing cypress.",
+      "type": "landscape",
+      "hole_number": null,
+      "source": "Blackmoor Golf Club official site",
+      "source_page_url": "https://blackmoor.com/gallery",
+      "attribution": "Course-provided",
+      "rights_note": "official course media",
+      "priority": 1
+    },
+    {
+      "url": "https://img1.wsimg.com/isteam/ip/fc55540e-fb93-4e3f-84cf-1fc699f31634/blackmoor-clubhouse-back-1800.jpg/:/rs=w:1800,m",
+      "alt": "Blackmoor Golf Club clubhouse exterior, rear view",
+      "caption": "The clubhouse from the course side, set against the pines of Longwood Plantation.",
+      "type": "clubhouse",
+      "hole_number": null,
+      "source": "Blackmoor Golf Club official site",
+      "source_page_url": "https://blackmoor.com/gallery",
+      "attribution": "Course-provided",
+      "rights_note": "official course media",
+      "priority": 2
+    },
+    {
+      "url": "https://img1.wsimg.com/isteam/ip/fc55540e-fb93-4e3f-84cf-1fc699f31634/blackmoor-clubhouse-gator.jpg/:/rs=w:2048,m",
+      "alt": "Atmosphere at Blackmoor — an alligator sunning near the clubhouse lagoon",
+      "caption": "A reminder that you're on the Waccamaw — Blackmoor's resident gators are a local fixture.",
+      "type": "landscape",
+      "hole_number": null,
+      "source": "Blackmoor Golf Club official site",
+      "source_page_url": "https://blackmoor.com/gallery",
+      "attribution": "Course-provided",
+      "rights_note": "official course media",
+      "priority": 2
+    },
+    {
+      "url": "https://img1.wsimg.com/isteam/ip/fc55540e-fb93-4e3f-84cf-1fc699f31634/Blackmoor-Welcome.jpg/:/rs=w:1600,m",
+      "alt": "Blackmoor Golf Club entrance / welcome view",
+      "caption": "Arrival at Blackmoor.",
+      "type": "landscape",
+      "hole_number": null,
+      "source": "Blackmoor Golf Club official site",
+      "source_page_url": "https://blackmoor.com/gallery",
+      "attribution": "Course-provided",
+      "rights_note": "official course media",
+      "priority": 3
+    },
+    {
+      "url": "https://img1.wsimg.com/isteam/ip/fc55540e-fb93-4e3f-84cf-1fc699f31634/blackmoorgallery99.jpg/:/rs=w:1300,h:800",
+      "alt": "Blackmoor course gallery image — fairway and green",
+      "caption": "From Blackmoor's official photo gallery.",
+      "type": "hole",
+      "hole_number": null,
+      "source": "Blackmoor Golf Club official site",
+      "source_page_url": "https://blackmoor.com/gallery",
+      "attribution": "Course-provided",
+      "rights_note": "official course media",
+      "priority": 2
+    },
+    {
+      "url": "https://img1.wsimg.com/isteam/ip/fc55540e-fb93-4e3f-84cf-1fc699f31634/blackmoorgallery55.jpg/:/rs=w:1300,h:800",
+      "alt": "Blackmoor course gallery image — lagoon-side approach",
+      "caption": "From Blackmoor's official photo gallery.",
+      "type": "hole",
+      "hole_number": null,
+      "source": "Blackmoor Golf Club official site",
+      "source_page_url": "https://blackmoor.com/gallery",
+      "attribution": "Course-provided",
+      "rights_note": "official course media",
+      "priority": 2
+    },
+    {
+      "url": "https://img1.wsimg.com/isteam/ip/fc55540e-fb93-4e3f-84cf-1fc699f31634/blackmoorgallery88.jpg/:/rs=w:1300,h:800",
+      "alt": "Blackmoor course gallery image",
+      "caption": "From Blackmoor's official photo gallery.",
+      "type": "hole",
+      "hole_number": null,
+      "source": "Blackmoor Golf Club official site",
+      "source_page_url": "https://blackmoor.com/gallery",
+      "attribution": "Course-provided",
+      "rights_note": "official course media",
+      "priority": 3
+    },
+    {
+      "url": "https://img1.wsimg.com/isteam/ip/fc55540e-fb93-4e3f-84cf-1fc699f31634/blackmoorgallery44.jpg/:/rs=w:1300,h:800",
+      "alt": "Blackmoor course gallery image",
+      "caption": "From Blackmoor's official photo gallery.",
+      "type": "hole",
+      "hole_number": null,
+      "source": "Blackmoor Golf Club official site",
+      "source_page_url": "https://blackmoor.com/gallery",
+      "attribution": "Course-provided",
+      "rights_note": "official course media",
+      "priority": 3
+    },
+    {
+      "url": "https://blackmoor.com/yardage-book-%26-scorecard",
+      "alt": "Blackmoor yardage book and scorecard page — hole-by-hole imagery for all 18 holes",
+      "caption": "The official yardage-book page includes a portrait thumbnail for every hole (Hole 01-18). Build agent can extract individual flyover-style hole images by pulling 'Blackmoor Golf Club Myrtle Beach Golf Hole NN.jpg' from img1.wsimg.com/isteam/ip/fc55540e-fb93-4e3f-84cf-1fc699f31634/. NOTE: source resolution is only ~263x416 — usable as inset/yardage diagrams, not full-bleed heroes.",
+      "type": "flyover",
+      "hole_number": null,
+      "source": "Blackmoor Golf Club official site",
+      "source_page_url": "https://blackmoor.com/yardage-book-%26-scorecard",
+      "attribution": "Course-provided",
+      "rights_note": "URL is the page, not a single image. Direct image pattern: https://img1.wsimg.com/isteam/ip/fc55540e-fb93-4e3f-84cf-1fc699f31634/Blackmoor%20Golf%20Club%20Myrtle%20Beach%20Golf%20Hole%2001.jpg/:/  through Hole 18. Low-res source — diagrammatic use only.",
+      "priority": 3
+    }
+  ],
+  "research_notes": "Sources verified by loading pages in Chrome and inspecting DOM/CSS image references. The official site at blackmoor.com is built on GoDaddy's website builder; all images are served from the img1.wsimg.com isteam CDN under tenant fc55540e-fb93-4e3f-84cf-1fc699f31634. Source resolutions confirmed via Image() onload: BLK-13.jpeg = 1600x899, blackmoor-golf-club-no-14-1800x800.jpeg = 1600x711 (1800 native), blackmoor-clubhouse-back-1800.jpg = 1800x900, blackmoor-clubhouse-gator.jpg = 2048x1536, Blackmoor-fairway-1800-2.jpg = 1800x735, gallery99/55 = ~1300x800, Welcome = 1600 wide. The isteam CDN supports on-the-fly resizing via the '/:/rs=w:NNNN,m' suffix — Claude Code can request any width up to the native size. GolfPass aerial (457.jpg) is 1440x964 native and the only verified true-aerial shot found; rights are published-editorial and should be cleared before commercial use. The Civil War / Longwood Plantation cemetery hole is #13 and BLK-13.jpeg is the official site's hero crop for that hole. Gallery images 11/44/55/88/99 are unlabeled in DOM (no captions) — types/captions inferred conservatively. Hammock Coast SC, Play Golf Myrtle Beach, MBGolf, Visit Myrtle Beach, and Golf Digest course pages were identified as alternate sources but not scraped due to time/scope; if more aerials are needed, Play Golf Myrtle Beach's 'Video Spotlight: Blackmoor Golf Club' article (https://www.playgolfmyrtlebeach.com/news/video-spotlight-blackmoor-golf-club/) and Golf Life's 2017 feature (https://golflife.com/2017/08/08/blackmoor-golf-club-feature/) are likely productive next stops. Founders Group International (parent) did not surface a dedicated Blackmoor gallery in search results — they redirect to blackmoor.com. Instagram tag /4611809 exists but individual posts were not verified."
+}

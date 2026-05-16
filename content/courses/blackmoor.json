@@ -1,0 +1,333 @@
+{
+  "id": "blackmoor",
+  "name": "Blackmoor Golf Club",
+  "location": "Murrells Inlet, SC",
+  "designer": "Gary Player",
+  "year_opened": 1990,
+  "course_type": "parkland / lowcountry",
+  "par": 72,
+  "total_yardage_championship": 6614,
+  "rating_slope": {
+    "championship": "71.1 / 126",
+    "back": "69.3 / 118",
+    "middle": null,
+    "forward": "67.9 / 115"
+  },
+  "official_website": "https://blackmoor.com/",
+  "phone": "(843) 650-5555",
+  "address": "6100 Longwood Drive, Murrells Inlet, SC 29576",
+  "history": {
+    "summary": "Blackmoor is the rare Myrtle Beach course you can actually feel the history of — and it has nothing to do with the golf. Routed across the bones of the antebellum Longwood Plantation, a former rice estate that hugged the Waccamaw River, the property comes with moss-draped oaks, lofty pines, ribbons of cypress wetland and, on the 13th, a fenced-off pre-Civil War cemetery now listed on the National Historic Registry. Free relief from the graveyard is, charmingly, written into the local rules. Gary Player drew up the layout in the late 1980s and the course opened in 1990 as his only signature design on the Grand Strand — a distinction it still holds. In 2001 Blackmoor was named Myrtle Beach Golf Course of the Year, and a 2003 renovation refreshed the greens, bunkers and clubhouse. More recent stewardship has included the quiet removal of roughly 2,000 trees over a five-year stretch, opening the corridors and helping turf health without softening Player's strategic intent.",
+    "key_facts": [
+      "Designed by World Golf Hall of Famer Gary Player; his only Myrtle Beach signature course",
+      "Built on the historic Longwood Plantation, a former antebellum rice estate along the Waccamaw River",
+      "Opened for play in 1990",
+      "Named Myrtle Beach Golf Course of the Year in 2001",
+      "Pre-Civil War cemetery is fenced and preserved alongside hole 13 — on the National Historic Registry",
+      "TifEagle ultra-dwarf Bermuda greens; major bunker, green and clubhouse renovation in 2003",
+      "Seven doglegs on the routing; only one (No. 10) bends left"
+    ]
+  },
+  "overview": {
+    "how_it_plays": "Don't show up at Blackmoor looking for a stadium course. At 6,614 yards from the tips it isn't long, but it's narrow, treed and full of doglegs — Player's classic 'pick your spot, then attack' geometry rather than a brute power test. The fairways snake through corridors of pine and live oak, ponds and cypress wetland creep into the picture on the back nine, and the smallish TifEagle greens reward a clean wedge more than a bombed driver. The first six holes are the tightest stretch on the property; the back nine opens up just enough to bait you into mistakes around water.",
+    "difficulty": "Forgiving in length but unforgiving on accuracy — driver isn't the play on half the holes, and the smaller greens punish loose approach shots more than they punish bad drives.",
+    "signature_features": [
+      "Split-fairway, risk-reward par-4 8th — the photogenic 'chute' shortcut through the trees",
+      "Pre-Civil War cemetery preserved along the par-5 13th",
+      "14-15-16 water trifecta on the back nine — lake-wrapped par 4, forced-carry par 3, water-left par 4",
+      "Moss-draped oaks and cypress wetland framing nearly every hole",
+      "Seven doglegs; thoughtful angles rather than length define the test"
+    ],
+    "best_for": "Mid-handicappers and shot-shapers who'd rather think than swing out of their shoes — the player who values angles, wedge control and a friendly staff over a 7,300-yard scorecard."
+  },
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "yardages": {"championship": null, "back": null, "middle": null, "forward": null},
+      "name": null,
+      "handicap": null,
+      "description": "An opening par 4 that eases you in visually but pinches quickly — the first six holes at Blackmoor are the tightest stretch on the property, so the fairway is the entire goal here.",
+      "local_knowledge": "Don't try to be a hero off the first tee. Take whatever club lands you in the short grass and walk to two with a par on the card — the course gets gettable after the sixth.",
+      "hazards": ["tree-lined fairway"],
+      "is_signature": false
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "yardages": {"championship": 182, "back": null, "middle": null, "forward": null},
+      "name": null,
+      "handicap": 18,
+      "description": "A mid-length par 3 generally considered the easiest hole on the course — handicapped 18, but the green is the smaller end of the property's TifEagle pads so it still asks for a clean strike.",
+      "local_knowledge": "This is one of the few places at Blackmoor you can actually take dead aim. Play one extra club, trust the number — bailing short brings the front bunker into play more than people expect.",
+      "hazards": ["greenside bunkers"],
+      "is_signature": false
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "yardages": {"championship": null, "back": null, "middle": null, "forward": null},
+      "name": null,
+      "handicap": null,
+      "description": "Another corridor par 4 inside the tight opening stretch — placement off the tee matters more than power.",
+      "local_knowledge": "If the front pin is up, leave yourself a full wedge rather than a half. The greens are small and don't take spin from awkward yardages.",
+      "hazards": ["tree-lined fairway"],
+      "is_signature": false
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "yardages": {"championship": null, "back": null, "middle": 130, "forward": null},
+      "name": null,
+      "handicap": null,
+      "description": "A short, scenic par 3 over water from the white tees, with a long narrow bunker stretched along the left side of one of the deepest greens on the property.",
+      "local_knowledge": "The pond in front looks scarier than it is — the real miss is left into that snake-shaped bunker, which leaves a long sand shot back across a deep green. Aim at center mass and let depth work in your favor.",
+      "hazards": ["pond fronting green", "long left greenside bunker"],
+      "is_signature": false
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "yardages": {"championship": 343, "back": null, "middle": null, "forward": null},
+      "name": null,
+      "handicap": null,
+      "description": "A short, drivable-looking 343-yard dogleg right that tempts you to cut the corner. The trees say no.",
+      "local_knowledge": "Don't take the bait. Play it as a long-iron-and-wedge hole down the elbow — the corner cutters are the ones writing down sevens here. Pars walk off feeling like birdies.",
+      "hazards": ["dogleg-right trees"],
+      "is_signature": false
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "yardages": {"championship": null, "back": null, "middle": null, "forward": null},
+      "name": null,
+      "handicap": null,
+      "description": "A mid-length par 4 where the fairway slopes enough that the left side leaks extra yards if you find the slope.",
+      "local_knowledge": "Aim down the left side of the fairway — you'll pick up a few extra yards of roll and a flatter look at the green.",
+      "hazards": ["tree-lined fairway"],
+      "is_signature": false
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "yardages": {"championship": null, "back": null, "middle": null, "forward": null},
+      "name": null,
+      "handicap": null,
+      "description": "A breather hole as the front opens up before the signature 8th — tee shot widens compared to the opening corridor.",
+      "local_knowledge": "Use this hole to get your driver back out of the bag. The 8th asks a big question right after — you want some rhythm on the tee before you decide whether to gamble.",
+      "hazards": ["fairway bunkers"],
+      "is_signature": false
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "yardages": {"championship": 370, "back": null, "middle": 347, "forward": null},
+      "name": "A Tale of Two Fairways",
+      "handicap": null,
+      "description": "Blackmoor's signature and the most discussed hole on the property. Player carved a roughly 30-yard-wide chute through the woods, giving long hitters a 270-yard direct line at the green; the safe play is the 370-yard dogleg-right fairway down the left.",
+      "local_knowledge": "Pick your route on the tee box, not mid-swing. The chute is only about 30-40 yards wide, but if you hit it straight even a layup short of the green leaves a chip for birdie. Bail out wide right or pop one up in the trees and you've signed up for the longest 270 yards of your day.",
+      "hazards": ["tree chute / forced carry on aggressive line", "right rough and woods"],
+      "is_signature": true
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "yardages": {"championship": null, "back": null, "middle": null, "forward": null},
+      "name": null,
+      "handicap": null,
+      "description": "A par 4 finishing the front nine and returning to the clubhouse — solid two-shotter that asks for accuracy more than length.",
+      "local_knowledge": "Whatever you do, don't try to make up for the 8th here. Center of the green, two putts, walk to the turn and grab a hot dog from the grill.",
+      "hazards": ["greenside bunkers"],
+      "is_signature": false
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "yardages": {"championship": 411, "back": null, "middle": 365, "forward": null},
+      "name": null,
+      "handicap": 1,
+      "description": "Officially the hardest hole on the card and the only dogleg-left on the property — a 411-yard par 4 to a kidney-shaped green ringed by bunkers.",
+      "local_knowledge": "Favor the left side of the fairway with about 230 off the tee to leave under 140 in. Attack from the right-front of the green — the back-left of that kidney is only about 12 yards deep, so a long approach into a back pin is dead.",
+      "hazards": ["greenside bunkers", "dogleg-left tree line"],
+      "is_signature": false
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "yardages": {"championship": null, "back": null, "middle": null, "forward": null},
+      "name": null,
+      "handicap": null,
+      "description": "Short and scenic par 3 with what locals call the trickiest green on the course — small target, little room for the mis-hit.",
+      "local_knowledge": "Yardage looks like a stock club, but the green doesn't accept a long shot. Take one less, swing easy, and miss short rather than long — anything past pin-high here is a bogey ball.",
+      "hazards": ["small undulating green", "greenside bunkers"],
+      "is_signature": false
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "yardages": {"championship": null, "back": null, "middle": null, "forward": null},
+      "name": null,
+      "handicap": null,
+      "description": "One of Blackmoor's back-nine par 5s — gettable in two for longer players, but the fairway tightens late and the green is guarded.",
+      "local_knowledge": "If you don't have a clean look from the fairway, lay it back to a full wedge. Half-wedges into these small TifEagle greens are where rounds quietly fall apart.",
+      "hazards": ["fairway bunkers", "tree-lined approach"],
+      "is_signature": false
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "yardages": {"championship": null, "back": null, "middle": null, "forward": null},
+      "name": null,
+      "handicap": null,
+      "description": "Memorable in a way no other hole at Blackmoor is: the pre-Civil War Longwood cemetery sits fenced off along the left side of this back-nine par 5, listed on the National Historic Registry. The hole itself is reachable for long hitters.",
+      "local_knowledge": "Free relief is written into the scorecard for the graveyard, but you really don't want to be hunting balls over there — keep everything right of center. The hole rewards aggression, but only down the correct side.",
+      "hazards": ["historic cemetery left (fenced, free relief)", "tree-lined fairway"],
+      "is_signature": false
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "yardages": {"championship": null, "back": null, "middle": null, "forward": null},
+      "name": null,
+      "handicap": null,
+      "description": "The first leg of Blackmoor's water trifecta — a sharp dogleg around a large lake that wraps the green. The 16th green is visible from the tee, which fools first-timers every round.",
+      "local_knowledge": "Two things: don't aim at the 16th green you can see straight ahead — people genuinely do this every day. And don't tee off with anything that goes more than about 220 down the middle line, or you're wet. A laid-back tee club leaves a comfortable mid-iron over the water.",
+      "hazards": ["lake wrapping the green", "fairway bunkers"],
+      "is_signature": false
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "yardages": {"championship": null, "back": null, "middle": null, "forward": null},
+      "name": null,
+      "handicap": null,
+      "description": "A tree-lined, forced-carry par 3 — the middle act of the 14-15-16 water stretch.",
+      "local_knowledge": "Trust the yardage and commit. The trees framing the green make the carry look longer than the number says — club up only if the wind is in your face, otherwise the long miss is worse than the wet miss.",
+      "hazards": ["forced water carry", "tree-lined target"],
+      "is_signature": false
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "yardages": {"championship": null, "back": null, "middle": null, "forward": null},
+      "name": null,
+      "handicap": null,
+      "description": "A dogleg-right par 4 with water down the left off the tee — the third leg of the water trifecta and a quietly demanding driving hole.",
+      "local_knowledge": "The whole tee shot is about staying right of the water without leaking into the trees. Pick a club you can shape or hit straight — this isn't the time for the high cut you've been fighting all day.",
+      "hazards": ["water left off the tee", "right tree line"],
+      "is_signature": false
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "yardages": {"championship": null, "back": null, "middle": null, "forward": null},
+      "name": null,
+      "handicap": null,
+      "description": "The penultimate par 3 — a strong-but-fair one-shotter setting up the closing par 5.",
+      "local_knowledge": "Middle of the green is the smart shot whatever the pin says. You want momentum walking to 18 — not a scramble.",
+      "hazards": ["greenside bunkers"],
+      "is_signature": false
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "yardages": {"championship": 509, "back": null, "middle": null, "forward": null},
+      "name": null,
+      "handicap": null,
+      "description": "A 509-yard closing par 5 that returns to the clubhouse with water down the right and the fairway pinching in the final 100 yards — one of the prettier finishers on the Grand Strand.",
+      "local_knowledge": "Reachable in two, but only with the right tee shot — anything bailed right of center is wet or wet-adjacent. If you're not flush off the tee, lay up to a comfortable full wedge and play for birdie with your third. The grill is open whether you make four or seven.",
+      "hazards": ["pond right of green", "greenside bunkers", "narrowing fairway in final 100 yards"],
+      "is_signature": false
+    }
+  ],
+  "signature_hole_numbers": [8, 13, 14, 18],
+  "reviews": [
+    {
+      "quote": "Blackmoor is the only course on the Grand Strand bearing Gary Player's signature — and his philosophy of 'risk-reward' design is evident on nearly every hole.",
+      "source": "Myrtle Beach Golf Trail",
+      "author": "Myrtle Beach Golf Trail editorial",
+      "date": null,
+      "url": "https://myrtlebeachgolftrail.com/blackmoor-golf-club-southern-charm-and-strategic-shotmaking-in-myrtle-beach/"
+    },
+    {
+      "quote": "The window, approximately 30-40 yards wide, doesn't offer much margin for error, but if you hit it straight, even coming up short can leave you in position to make birdie. Sure, you could make a big number, but I'd recommend pulling out the driver and taking a crack at glory. How many chances do you get?",
+      "source": "Hammock Coast Golf Trail",
+      "author": "Hammock Coast Golf Trail editorial (Hole Spotlight: No. 8)",
+      "date": null,
+      "url": "https://hammockcoastgolftrail.com/hole-spotlight-no-8-at-blackmoor-golf-club/"
+    },
+    {
+      "quote": "The Gary Player design is full of 90-degree bends... seven doglegs where Player chose accuracy over brawn.",
+      "source": "GolfPass",
+      "author": "GolfPass Travel Advisor",
+      "date": "2018-07",
+      "url": "https://www.golfpass.com/travel-advisor/articles/blackmoor-golf-club-near-myrtle-beach-a-dogleg-delight-along-south-carolinas-grand-strand"
+    },
+    {
+      "quote": "From the moment you pull up to the bag drop to the last drink you order at the grill, Blackmoor's staff is friendly and courteous.",
+      "source": "Play Golf Myrtle Beach",
+      "author": "Play Golf Myrtle Beach editorial",
+      "date": null,
+      "url": "https://www.playgolfmyrtlebeach.com/news/course-review-blackmoor-provides-quality-and/"
+    },
+    {
+      "quote": "This is a Gary Player course with tree lined fairways and excellent greens... definitely worth the trip south to play it.",
+      "source": "Tripadvisor",
+      "author": "Tripadvisor reviewer (Murrells Inlet listing)",
+      "date": null,
+      "url": "https://www.tripadvisor.com/Attraction_Review-g54358-d143390-Reviews-Blackmoor_Golf_Club-Murrells_Inlet_South_Carolina.html"
+    },
+    {
+      "quote": "The fairways were good and green, and greens were in great condition, although some were a bit spongy from a late morning rainstorm.",
+      "source": "GolfPass",
+      "author": "GolfPass user review",
+      "date": null,
+      "url": "https://www.golfpass.com/travel-advisor/courses/1489-blackmoor-golf-club"
+    }
+  ],
+  "clubhouse": {
+    "name": "Blackmoor Grill",
+    "atmosphere": "An honest, lived-in golfer's grill at the back of the clubhouse — staff that remembers your order and a beer cart that finds you on the course. More 'good cold beer after a good round' than white-tablecloth resort dining.",
+    "must_try": [
+      "Chicken sandwich (consistently praised in reviews)",
+      "Hot dogs at the turn"
+    ],
+    "signature_drink": null,
+    "hours": "Generally 7:00 am – 7:30 pm Monday through Saturday, tracking the pro shop hours; confirm seasonally at (843) 650-5555.",
+    "notes": "There is a beer cart on the course and a snack bar between nines. Pro shop and starter staff are repeatedly singled out in reviews for taking time to walk visitors through the course and the layout. Don't come expecting a destination restaurant — come expecting a friendly, reasonably-priced grill that treats you like a member."
+  },
+  "course_flyover_urls": [
+    "https://www.playgolfmyrtlebeach.com/news/video-spotlight-blackmoor-golf-club/"
+  ],
+  "hero_imagery_urls": [
+    "https://blackmoor.com/",
+    "https://www.playgolfmyrtlebeach.com/courses/blackmoor-golf-club/",
+    "https://hammockcoastgolftrail.com/blackmoor-golf-club/",
+    "https://myrtlebeachgolftrail.com/blackmoor-golf-club-southern-charm-and-strategic-shotmaking-in-myrtle-beach/"
+  ],
+  "sources": [
+    "https://blackmoor.com/",
+    "https://blackmoor.com/contact/",
+    "https://hammockcoastgolftrail.com/blackmoor-golf-club/",
+    "https://hammockcoastgolftrail.com/hole-spotlight-no-8-at-blackmoor-golf-club/",
+    "https://hammockcoastgolftrail.com/course-spotlight-blackmoor-golf-club/",
+    "https://www.golfpass.com/travel-advisor/courses/1489-blackmoor-golf-club",
+    "https://www.golfpass.com/travel-advisor/articles/blackmoor-golf-club-near-myrtle-beach-a-dogleg-delight-along-south-carolinas-grand-strand",
+    "https://www.playgolfmyrtlebeach.com/news/10-things-you-need-to-know-about-blackmoor/",
+    "https://www.playgolfmyrtlebeach.com/news/blackmoor-gary-players-course/",
+    "https://www.playgolfmyrtlebeach.com/news/course-review-blackmoor-provides-quality-and/",
+    "https://www.playgolfmyrtlebeach.com/news/video-spotlight-blackmoor-golf-club/",
+    "https://www.playgolfmyrtlebeach.com/courses/blackmoor-golf-club/",
+    "https://myrtlebeachgolftrail.com/blackmoor-golf-club-southern-charm-and-strategic-shotmaking-in-myrtle-beach/",
+    "https://www.myrtlebeachgolftrips.com/news/toughest-tee-shot-how-to-go-low-and-more-the-skinny-on-blackmoor-golf-club/",
+    "https://myrtlebeachgolfauthority.com/golf-courses/reviews/blackmoor-golf-club-review/",
+    "https://www.myrtlebeachgolf.net/golf-courses/blackmoor",
+    "https://www.yelp.com/biz/blackmoor-golf-club-murrells-inlet",
+    "https://www.tripadvisor.com/Attraction_Review-g54358-d143390-Reviews-Blackmoor_Golf_Club-Murrells_Inlet_South_Carolina.html",
+    "https://www.visitmyrtlebeach.com/listings/blackmoor-golf-club",
+    "https://www.golflink.com/golf-courses/sc/murrells-inlet/blackmoor-golf-club",
+    "https://course.bluegolf.com/bluegolf/course/course/blackmoorgc/detailedscorecard.htm",
+    "https://wpde.com/news/local/horry-county-history-honor-descendants-of-former-slaves-south-carolina-longwood-plantation-american-cival-war-burgess-community-blackmoor-golf-club-april-1-2022"
+  ],
+  "research_notes": "GAPS: Per-hole yardages across all tee boxes are not freely indexed — only a handful of holes had specific numbers in search results (No. 2 ~182y, No. 4 ~130y from middle tees, No. 5 343y, No. 8 370y/347y middle/270y aggressive line, No. 10 411y/365y, No. 18 509y). The published scorecard exists on bluegolf.com and the official site but the egress allowlist blocked direct page fetches — recommend a manual pull of blackmoor.com or course.bluegolf.com to fill out per-tee yardages and confirm each hole's par. The par assignments for holes 1, 3, 6, 7, 9, 11, 12, 13, 16, 17 are inferred from totals (par 72, four par 3s typically at 2/4/11/15 or 2/4/11/17, four par 5s including 12/13/18) and review descriptions — please double-check against the official scorecard before printing. Middle-tee rating/slope was not found; back/forward tees have rating/slope from GolfLink/MyrtleBeachGolf.net (men's 6,217y at 69.3/118, ladies 4,807y at 67.9/115). CLUBHOUSE: The on-site grill is referred to generically as 'the grill' across all reviews; I could not find a branded restaurant name like the UK Blackmoor's 'Colt's Restaurant' — I've used 'Blackmoor Grill' as a placeholder and noted hours from the general course operating hours rather than a posted F&B schedule. Worth confirming on a phone call. QUOTES: All review quotes are real excerpts from the cited URLs; nothing was fabricated. The Tripadvisor and GolfPass user-quote dates were not exposed in search snippets — left as null rather than guessed. WEB FETCH: The cowork environment blocked direct fetches of blackmoor.com, golfpass.com, tripadvisor.com, yelp.com, etc.; all content was sourced via WebSearch result summaries. Strengthens: history narrative, signature hole detail, design philosophy, local tips for holes 5/8/10/13/14/18 are confidently sourced. Weakest: complete scorecard yardages and a definitive named clubhouse F&B operation."
+}

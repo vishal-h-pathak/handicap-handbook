@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#F5F1EA"/>
+  <g transform="translate(71.68, 71.68)">
+    <g transform="translate(184.32, 125.33760000000001)">
+      <line x1="0" y1="-56.401920000000004" x2="0" y2="75.20256" stroke="#1F1A14" stroke-width="4.792319999999999" stroke-linecap="round"/>
+      <path d="M 0 -56.401920000000004 L 68.93568 -37.60128 L 0 -18.80064 Z" fill="#B7872F"/>
+    </g>
+    <text x="184.32" y="287.5392" text-anchor="middle"
+          font-family="'Fraunces', 'Georgia', serif" font-weight="500"
+          font-size="125.33760000000001" fill="#0E4D3F"
+          letter-spacing="-0.02em">HH</text>
+  </g>
+</svg>

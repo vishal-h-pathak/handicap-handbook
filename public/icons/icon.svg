@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#F5F1EA"/>
+  <!-- Golf flag -->
+  <g transform="translate(256, 174.08)">
+    <line x1="0" y1="-78.33600000000001" x2="0" y2="104.44800000000001" stroke="#1F1A14" stroke-width="6.656" stroke-linecap="round"/>
+    <path d="M 0 -78.33600000000001 L 95.74400000000001 -52.224000000000004 L 0 -26.112000000000002 Z" fill="#B7872F"/>
+  </g>
+  <!-- HH monogram -->
+  <text x="256" y="399.36" text-anchor="middle"
+        font-family="'Fraunces', 'Georgia', serif" font-weight="500"
+        font-size="174.08" fill="#0E4D3F"
+        letter-spacing="-0.02em">HH</text>
+</svg>

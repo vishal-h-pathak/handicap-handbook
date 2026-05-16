@@ -1,0 +1,348 @@
+{
+  "id": "kings-north",
+  "name": "King's North at Myrtle Beach National",
+  "location": "Myrtle Beach, SC",
+  "designer": "Arnold Palmer (1996 redesign; Francis Duane & Arnold Palmer original 1973). 2024-2025 renovation by Brandon Johnson of Arnold Palmer Design Company.",
+  "year_opened": 1973,
+  "year_redesigned": 1996,
+  "course_type": "parkland / heroic Palmer design with bold water carries, island fairways and beach-style waste bunkers",
+  "par": 72,
+  "total_yardage_championship": 6903,
+  "rating_slope": {
+    "championship": "74.4 / 154 (Black, 6,903 yds)",
+    "back": "71.9 / 146 (Burnt Orange, 6,453 yds)",
+    "middle": "70.3 / 138 (Creme, 6,033 yds)",
+    "forward": "68.0 / 136 men / 73.7 / 141 women (Forest Green, 5,653 yds); 64.0 / 125 men / 68.1 / 127 women (Garnet, 4,752 yds)"
+  },
+  "official_website": "https://www.myrtlebeachnational.com/",
+  "phone": "(843) 448-2308",
+  "address": "4900 National Drive, Myrtle Beach, SC 29579",
+  "history": {
+    "summary": "King's North is the marquee of Myrtle Beach National, a 54-hole Arnold Palmer property that opened in 1973 as the simply-named 'North' course, the first of three Palmer designs (alongside West and SouthCreek) that established MBN as a Grand Strand bedrock. For two decades the North was a solid, if unflashy, parkland layout — until 1996, when Arnold Palmer himself returned with longtime collaborator Francis Duane to tear it down to the studs and reimagine it as a heroic, photogenic showpiece. That redesign produced the holes that minted the course's legend: the par-5 6th 'Gambler' with its narrow island fairway floating in the middle of a lake, and the par-3 12th, an island green ringed by sand bunkers shaped into the letters 'S' and 'C' as a wink to the Palmetto State.\n\nThe Palmer 2.0 layout earned every accolade Myrtle Beach has to offer. It cracked Golf Digest's 'America's 100 Greatest Public Courses' in 2004, has held a 4.5-star rating in Golf Digest's 'Places to Play' ever since, and was named South Carolina's Course of the Year by the National Golf Course Owners Association. Golf for Women slotted it in the 'Top 100 Courses in America' from 2000-2004. For a generation of golf tourists, King's North wasn't a stop on the Myrtle Beach trip — it was the trip.\n\nIn June 2024 the course closed for a two-stage, two-year renovation led by Brandon Johnson, a longtime member of Palmer's design team. The front nine reopened in 2024, the back in October 2025, and the 'new King's North' debuted for the 2026 season — reshaped greens, widened fairways, beach-style waste bunkers throughout, a reinterpreted SC bunker complex at the 12th, and a completely reconfigured 18th. The course got harder (the new back-tee rating/slope of 74.4/154 is a meaningful bump) but, by most accounts, also more interesting and less gimmicky than the original Palmer redux.",
+    "key_facts": [
+      "Originally opened 1973 as the 'North' course at Myrtle Beach National, designed by Francis Duane with Arnold Palmer",
+      "Redesigned by Arnold Palmer in 1996, the redesign that made it famous",
+      "Two-year 2024-2025 renovation by Brandon Johnson (Arnold Palmer Design Company), reopened fully for the 2026 season",
+      "Home of 'The Gambler' — par-5 6th with an island fairway dare",
+      "Par-3 12th has an island green flanked by sand bunkers shaped as the letters 'S' and 'C' for South Carolina",
+      "Par-4 18th, nicknamed 'The Bull's-Eye,' historically featured ~40 bunkers from tee to green",
+      "Golf Digest 'America's 100 Greatest Public Courses' (2004); 4.5 stars in 'Places to Play'",
+      "Named South Carolina's Course of the Year by the NGCOA",
+      "Statue of Arnold Palmer greets players at the entrance; clubhouse has a tribute display of Palmer's clubs, letters and photos",
+      "Shares a 54-hole clubhouse and practice facility with sister Palmer designs MBN West Course and SouthCreek"
+    ]
+  },
+  "overview": {
+    "how_it_plays": "King's North is the Myrtle Beach golf course you've seen on the postcard — a Palmer heroic-design playground where almost every hole offers a tempting line over water, a waste bunker to challenge or skirt, and a green that asks you to commit. Off the new back tees it stretches to 6,903 yards and a 74.4/154 rating, which puts it firmly in 'play it forward unless you're really sure' territory; from the Creme tees at 6,033 it's eminently playable for a single-digit handicap and still plenty of fun for a 15.\n\nThe Johnson renovation widened a lot of fairways and reshaped the greens to be more contoured and strategic, so the course rewards thinking — picking the right club off the tee, the right angle into a back-shelf pin — more than it punishes a single miss. But the signature holes still deliver pure theater. The 6th, 12th and 18th alone are worth the green fee.",
+    "difficulty": "Tough but fair from the proper tees. Slope of 154 from the Black tees is among the highest on the Grand Strand; most players belong on Creme (6,033, 70.3/138) or Burnt Orange (6,453, 71.9/146). Water is in play on roughly half the holes, and the new beach-style waste bunkers eat tee shots if you stray.",
+    "signature_features": [
+      "The Gambler — par-5 6th with island fairway risk/reward",
+      "Par-3 12th island green flanked by 'S' and 'C' shaped bunkers (Palmetto State tribute)",
+      "Par-4 18th 'The Bull's-Eye' — historically bordered by ~40 bunkers tee-to-green",
+      "Statue of Arnold Palmer at the entrance and clubhouse tribute display",
+      "Beach-style waste bunkers and reshaped greens from the 2024-25 Brandon Johnson renovation",
+      "Heroic Palmer design DNA — risk/reward decisions on nearly every tee"
+    ],
+    "best_for": "Bucket-list Myrtle Beach players, golf groups who want one big-ticket course in the rotation, and anyone who'd rather have a course with three holes they'll talk about for years than 18 forgettable-but-fair ones. Pair with a more traditional layout (Caledonia, True Blue, Tidewater) for variety."
+  },
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "yardages": { "championship": 502, "back": 480, "middle": 460, "forward": 410 },
+      "name": null,
+      "handicap": 10,
+      "description": "A reachable par 5 that eases you into the round. Reoriented bunkers now define the sightlines and a grove of trees guards the left, rewarding drives that favor center-right. Cross bunkers in the layup zone force a choice: lay back safely or challenge the line for a better angle to the newly contoured green.",
+      "local_knowledge": "If you trust the driver, this is a real birdie chance — but the once-hidden bunker left of the putting surface now sits in plain view and grabs anything pulled. Center of the fairway is plenty.",
+      "hazards": ["Trees left", "Cross bunkers in layup zone", "Greenside bunker left"],
+      "is_signature": false
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "yardages": { "championship": 409, "back": 385, "middle": 360, "forward": 320 },
+      "name": null,
+      "handicap": 8,
+      "description": "A medium-length par 4 that often plays with the prevailing breeze at your back. A large waste bunker now connects the 2nd and 7th holes down the left, swallowing pulled drives. The reshaped green has a far more dramatic back-right shelf, and mounding on the left side can be used to feed approach shots toward middle pins.",
+      "local_knowledge": "With the wind helping, the green can be reachable for big hitters in a draw wind. Otherwise, favor right off the tee to take the connecting waste bunker out of play.",
+      "hazards": ["Connecting waste bunker left (shared with #7)", "Greenside bunkers"],
+      "is_signature": false
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "yardages": { "championship": 365, "back": 340, "middle": 320, "forward": 280 },
+      "name": null,
+      "handicap": 12,
+      "description": "A short, heroic par 4 dogleg left that captures the spirit of King's North in miniature. The tee shot plays across a large pond — the safe play is right to the wider fairway, but bombers can flirt with or even cut the corner over the waste bunkers for a wedge in. Head pro Michael Burnside lists it among the course's three best holes.",
+      "local_knowledge": "Burnside calls this one of the three best holes on the course — long hitters can attempt to drive the green. Most should aim for the center of the fairway and trust a short iron in.",
+      "hazards": ["Pond off the tee", "Waste bunkers on the aggressive line", "Tiered green"],
+      "is_signature": false
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "yardages": { "championship": 180, "back": 168, "middle": 145, "forward": 107 },
+      "name": null,
+      "handicap": 16,
+      "description": "A short-to-mid-length par 3 played into a low-lying cove where the wind tends to swirl. The teeing area was dramatically expanded in the renovation so the hole can play different yardages and angles depending on pin location. Water guards the front and demands a confident carry.",
+      "local_knowledge": "Take enough club. Wind is squirrelly in the cove and there's no good miss short. Better to be pin-high in the back bunker than wet.",
+      "hazards": ["Water short", "Greenside bunkers"],
+      "is_signature": false
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "yardages": { "championship": 347, "back": 325, "middle": 305, "forward": 270 },
+      "name": null,
+      "handicap": 14,
+      "description": "A short dogleg left that begs you to attack. Challenge the left tree line and fairway bunker and you're left with a short pitch into a horseshoe-shaped green guarded by three front bunkers; bail right and you've got a longer, more awkward approach to that same horseshoe.",
+      "local_knowledge": "Accuracy off the tee is everything. The horseshoe green is tougher than it looks if you're coming in from the wrong angle — pick a line and commit.",
+      "hazards": ["Trees left", "Fairway bunker left", "Three front greenside bunkers"],
+      "is_signature": false
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "yardages": { "championship": 568, "back": 540, "middle": 510, "forward": 460 },
+      "name": "The Gambler",
+      "handicap": 2,
+      "description": "The hole. Inspired by Kenny Rogers' song, The Gambler is the signature moment of King's North — a 568-yard par 5 that splits into two fairways and asks you, on the tee, whether to know when to hold 'em. To the right is the conservative route: a generous, safe landing area that makes the hole a routine three-shotter around the water. To the left is the island fairway — a narrow ribbon of grass marooned in the middle of the lake, accessible only by a forced carry off the tee. Find it and the hole shortens dramatically and the green becomes reachable in two, with a chance at eagle. Miss it and you're reloading. It's pure, unadulterated Arnold Palmer: heroic, photogenic and impossible to play the same way twice.",
+      "local_knowledge": "The pros' advice is to play the hole twice — once as a three-shot par 5 around the right, once for The Gambler. Even if you make a mess of the island fairway, you'll talk about the shot for the rest of the trip. Wind off the left makes the island even smaller than it looks.",
+      "hazards": ["Lake (carry on aggressive line)", "Water all along left of approach", "Bunkers around green"],
+      "is_signature": true
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "yardages": { "championship": 423, "back": 395, "middle": 357, "forward": 310 },
+      "name": null,
+      "handicap": 6,
+      "description": "A short-to-mid par 4 dogleg left that head pro Michael Burnside calls 'criminally underrated.' A lake fills the elbow of the dogleg and a large waste bunker (shared with #2) guards the left, but the renovation widened the fairway so there's room to swing. A good drive leaves a forced carry to a long, angled green; a bad one means a layup.",
+      "local_knowledge": "Aim for the middle of the long, angled green and don't try to finesse it when the pin is front — that's where balls get lost in the water. A deep rear bunker waits for the overly cautious. Often plays into the prevailing breeze.",
+      "hazards": ["Lake in the elbow of the dogleg", "Waste bunker left (shared with #2)", "Deep rear bunker"],
+      "is_signature": false
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "yardages": { "championship": 190, "back": 175, "middle": 160, "forward": 130 },
+      "name": null,
+      "handicap": 18,
+      "description": "The most receptive par 3 on the course and a chance to catch your breath after The Gambler/7th gauntlet. The green is one of the largest on the property with a distinct middle tier and a bowl-like back section. Multiple teeing options mean it can play anywhere from a wedge to a long iron.",
+      "local_knowledge": "Use the sideboards. Aggressive players can fire at back pins and let the slope feed it close; for front pins, play beyond the flag and let the contours bring it back. Easiest hole on the course on paper, but three-putts lurk.",
+      "hazards": ["Greenside bunkers", "Severe back-to-front slope on front pins"],
+      "is_signature": false
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "yardages": { "championship": 465, "back": 430, "middle": 400, "forward": 350 },
+      "name": null,
+      "handicap": 4,
+      "description": "A muscular, straightaway finishing hole to the front nine. A generous fairway is framed by a new waste bunker; the green sits open in front, allowing a running approach, but the putting surface subtly falls away — so club selection and trajectory matter more than they look.",
+      "local_knowledge": "Don't get fooled by the open front — anything thin will run through the back. Take one more club than you think.",
+      "hazards": ["New waste bunker", "Falloff behind green"],
+      "is_signature": false
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "yardages": { "championship": 510, "back": 485, "middle": 460, "forward": 415 },
+      "name": null,
+      "handicap": 11,
+      "description": "A short par 5 to open the back nine with a real chance at birdie. The renovation turned the area around the 10th tee into a waste-bunker complex, framing the hole visually and squeezing the tee shot. Get a good drive past the trouble and the green is reachable in two.",
+      "local_knowledge": "Big hitters can be aggressive — the green is reachable but defended. Three-shot players should leave a full wedge yardage rather than a half-shot from 60 yards.",
+      "hazards": ["Waste bunkers around tee area", "Greenside bunkers"],
+      "is_signature": false
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "yardages": { "championship": 430, "back": 405, "middle": 380, "forward": 335 },
+      "name": null,
+      "handicap": 7,
+      "description": "A solid par 4 that gets less attention than its neighbors but punishes loose swings. The renovation tightened the bunkering and reshaped the green to demand more precise approach play.",
+      "local_knowledge": "Position over power. Find the fairway and play to the fat of the green — the contours will do the work on most pins.",
+      "hazards": ["Fairway bunkers", "Reshaped greenside bunkering"],
+      "is_signature": false
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "yardages": { "championship": 140, "back": 129, "middle": 110, "forward": 81 },
+      "name": "The SC",
+      "handicap": 17,
+      "description": "Arguably the most photographed hole in Myrtle Beach. A 140-yard wedge from the tips onto a small island green ringed by sand bunkers shaped, unmistakably, as the letters 'S' and 'C' — a Palmer wink to the Palmetto State. The Brandon Johnson renovation reinterpreted the SC bunker complex while keeping the trick intact. Looks like a postcard, plays harder than the yardage suggests when the wind is up.",
+      "local_knowledge": "Take enough club to carry — the lake all around the green is the only real hazard, but it's the only one that matters. Aim for the heart of the green, not the pin; an SC bunker save here is a Myrtle Beach souvenir nobody wants twice.",
+      "hazards": ["Water all around the green", "'S' and 'C' shaped bunkers ringing the green"],
+      "is_signature": true
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "yardages": { "championship": 372, "back": 355, "middle": 330, "forward": 290 },
+      "name": null,
+      "handicap": 13,
+      "description": "A mid-length par 4 with a new teeing area pushed back in the renovation. A scoring hole if you keep it in play, but the reshaped green has more internal contour than it used to.",
+      "local_knowledge": "Picking the right club off the tee matters more than crushing one. The fairway narrows where most drives land — laser the layup zone.",
+      "hazards": ["Fairway bunkers", "Contoured green"],
+      "is_signature": false
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "yardages": { "championship": 414, "back": 384, "middle": 360, "forward": 315 },
+      "name": null,
+      "handicap": 5,
+      "description": "King's North's second-longest par 4 from the white tees and an underrated bruiser. Dogleg left with sand on the tee shot and a brutal combination of sand and water on the approach. The renovation made the waste bunkering even more dramatic.",
+      "local_knowledge": "Most players find more trouble trying to be a hero on the second shot. Take an extra club, play to the middle of the green and bank a par. Trying to attack a front pin from a flier lie usually ends wet.",
+      "hazards": ["Fairway bunkers off the tee", "Water on approach", "Dramatic waste bunkering"],
+      "is_signature": false
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "yardages": { "championship": 555, "back": 520, "middle": 490, "forward": 440 },
+      "name": null,
+      "handicap": 1,
+      "description": "The hardest hole on the back nine and the toughest hole on the course by handicap. A long par 5 with dramatic waste bunkering through the entire corridor — the renovation made the sand even more cinematic. Trouble lurks on both sides of the tee shot and the layup.",
+      "local_knowledge": "Three shots, one bogey-saver at worst. Don't get cute trying to reach in two — the bailout angles get ugly fast. Anything that finds sand off the tee likely costs a stroke.",
+      "hazards": ["Waste bunkers tee to green", "Strategic fairway pinches"],
+      "is_signature": false
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "yardages": { "championship": 405, "back": 380, "middle": 355, "forward": 310 },
+      "name": null,
+      "handicap": 9,
+      "description": "A par 4 featured in The Sun News' list of '100 Greatest Holes Along the Grand Strand.' The renovation refreshed the beach-style bunkering. Demands a precise tee shot and a confident approach.",
+      "local_knowledge": "Center fairway, mid-green. The beach bunkering is photogenic but it isn't where you want to be.",
+      "hazards": ["Beach-style bunkers", "Strategic fairway bunkering"],
+      "is_signature": false
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "yardages": { "championship": 160, "back": 136, "middle": 119, "forward": 85 },
+      "name": null,
+      "handicap": 15,
+      "description": "The penultimate par 3, significantly reshaped in the renovation. The green was expanded with new contour and reconnected to bunkers that loom on both sides — left-side pin placements bring the fronting beach bunker squarely into play.",
+      "local_knowledge": "Pin position drives club selection. Middle of the green is rarely a bad answer; a left pin protected by the front beach bunker is a sucker pin.",
+      "hazards": ["Bunkers both sides", "Fronting beach bunker on left pins"],
+      "is_signature": false
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "yardages": { "championship": 460, "back": 435, "middle": 405, "forward": 360 },
+      "name": "The Bull's-Eye",
+      "handicap": 3,
+      "description": "A finishing hole engineered to send you to the clubhouse with a story. Historically, the 18th featured a staggering forty bunkers cascading from tee box to green — a wall-to-wall sand spectacle that earned it the nickname 'The Bull's-Eye.' The 2024-25 renovation reconfigured the look entirely, but the soul of the hole remains: navigate the sand, find the fairway, and hit a green that's framed by visual chaos. Long, demanding, and unforgettable.",
+      "local_knowledge": "Take the bunkers out of play with the right club off the tee — don't try to bomb driver if it brings the sand into reach. A par here is a great way to end the round; bogey is no shame. The visual is meant to intimidate; if you can ignore it and play your number, the hole is fairer than it looks.",
+      "hazards": ["Extensive bunkering tee to green (historically ~40 bunkers)", "Demanding green complex"],
+      "is_signature": true
+    }
+  ],
+  "signature_hole_numbers": [6, 12, 18],
+  "reviews": [
+    {
+      "quote": "For years, the King's North Course at Myrtle Beach National has been the most requested and best recognized golf course on the Grand Strand.",
+      "source": "Myrtle Beach National (official)",
+      "author": "MBN editorial",
+      "date": "2025",
+      "url": "https://www.mbn.com/course/myrtle-beach-national-kings-north"
+    },
+    {
+      "quote": "The new, 3.0 version of King's North is decidedly less kooky than the previous one but more fun and interesting to play.",
+      "source": "GolfPass — 'The new-look King's North'",
+      "author": "GolfPass editorial",
+      "date": "2026",
+      "url": "https://www.golfpass.com/travel-advisor/articles/myrtle-beach-golf-news-notes-2026-kings-north-barefoot-resort-wild-wing"
+    },
+    {
+      "quote": "The Gambler is awesome... King's North is the best golf course played on the strand. Hole #6, 'The Gambler,' is where you can play it safely around the lake, or aim straight for the island fairway in the middle of the lake for a chance at going for the green in two.",
+      "source": "Tripadvisor user review",
+      "author": "Tripadvisor reviewer",
+      "date": "n.d.",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g54359-d106944-r1787434-King_s_North_At_Myrtle_Beach_National-Myrtle_Beach_South_Carolina.html"
+    },
+    {
+      "quote": "The greens at King's North were the best I've seen in Myrtle Beach in 30 years of visits.",
+      "source": "GolfPass review (paraphrased aggregate)",
+      "author": "GolfPass user reviewer",
+      "date": "2025",
+      "url": "https://www.golfpass.com/travel-advisor/courses/16094-myrtle-beach-national-golf-club-kings-north-course"
+    },
+    {
+      "quote": "The par-3 12th hole is perhaps the signature hole for all of Myrtle Beach, playing 140 yards off the tips onto an iconic island green that has two bunkers shaped in an 'S' and a 'C,' symbolizing the state of South Carolina.",
+      "source": "Play Golf Myrtle Beach — 'Three Best Holes at King's North'",
+      "author": "Play Golf Myrtle Beach editorial (with head pro Michael Burnside)",
+      "date": "n.d.",
+      "url": "https://www.playgolfmyrtlebeach.com/news/the-three-best-holes-at-kings-north-at-myrtle/"
+    },
+    {
+      "quote": "King's North made its way onto Golf Digest's prestigious list of 'America's 100 Greatest Public Courses' in 2004, and Golf Digest's 'Places to Play' has awarded it 4.5 stars ever since.",
+      "source": "Golf Digest / aggregator",
+      "author": "Golf Digest",
+      "date": "2004 (recognition)",
+      "url": "https://www.golfdigest.com/courses/sc/myrtle-beach-national-kings-north"
+    },
+    {
+      "quote": "King's North is rightly regarded as one of the best on the Myrtle Beach golf scene. In its best form, it ranks alongside the likes of the Dunes Golf & Beach Club, Caledonia Golf & Fish Club and True Blue Golf Club.",
+      "source": "Top 100 Golf Courses",
+      "author": "Top 100 Golf Courses editorial",
+      "date": "n.d.",
+      "url": "https://www.top100golfcourses.com/golf-course/myrtle-beach-national-kings-north"
+    }
+  ],
+  "clubhouse": {
+    "name": "Myrtle Beach National Clubhouse (shared by King's North, West Course and SouthCreek)",
+    "atmosphere": "A 54-hole Palmer-property hub that doubles as a low-key Arnold Palmer museum — a statue of Arnie out front, a tribute display inside with his clubs, hand-written letters and photographs. It's a working golf clubhouse, not a fine-dining destination: bag drop, big practice range, multiple putting greens, and a full-service dining room aimed squarely at golfers between rounds.",
+    "must_try": [
+      "Post-round burger and beer on the patio",
+      "Breakfast before an early King's North tee time",
+      "Take five minutes for the Palmer tribute display before or after your round"
+    ],
+    "signature_drink": null,
+    "hours": null,
+    "notes": "The clubhouse is shared across all three Myrtle Beach National courses. As of the 2024-25 renovation cycle, Founders Group International planned a major clubhouse renovation aimed at a spring 2026 reopen with full-service dinner offered to the public. Reviews are mixed on the current grill (some find the food serviceable, others find it skimpy); expect typical golf-course food rather than a dining destination, at least until the clubhouse renovation lands."
+  },
+  "course_flyover_urls": [],
+  "hero_imagery_urls": [],
+  "sources": [
+    "https://www.myrtlebeachnational.com/",
+    "https://www.myrtlebeachnational.com/kings-north-hole-by-hole/",
+    "https://www.myrtlebeachnational.com/new-kings-north/",
+    "https://www.myrtlebeachnational.com/kings-north-renovations-timeline/",
+    "https://www.myrtlebeachnational.com/about-myrtle-beach-national/",
+    "https://www.myrtlebeachnational.com/dining/",
+    "https://www.mbn.com/course/myrtle-beach-national-kings-north",
+    "https://www.mbn.com/news/four-underrated-kings-north-holes",
+    "https://www.mbn.com/news/subscribers-sound-off-on-social-media-kings-north-6th-hole-the-gambler",
+    "https://www.golfpass.com/travel-advisor/courses/16094-myrtle-beach-national-golf-club-kings-north-course",
+    "https://www.golfpass.com/travel-advisor/articles/myrtle-beach-golf-news-notes-2026-kings-north-barefoot-resort-wild-wing",
+    "https://www.golfpass.com/travel-advisor/articles/kings-north-course-at-myrtle-beach-national-a-royally-entertaining-grand-strand-play",
+    "https://www.golfdigest.com/courses/sc/myrtle-beach-national-kings-north",
+    "https://www.top100golfcourses.com/golf-course/myrtle-beach-national-kings-north",
+    "https://www.playgolfmyrtlebeach.com/news/the-three-best-holes-at-kings-north-at-myrtle/",
+    "https://www.playgolfmyrtlebeach.com/news/three-underrated-holes-kings-north/",
+    "https://www.playgolfmyrtlebeach.com/news/5-things-you-need-to-know-kings-north/",
+    "https://www.playgolfmyrtlebeach.com/news/course-review-kings-north-deals-a-winning-han/",
+    "https://www.playgolfmyrtlebeach.com/news/kings-north-reopens-two-year-redesign-blending-arnold-palmers-vision-modern-updates/",
+    "https://www.myrtlebeachgolftrips.com/news/hole-by-hole-your-guide-to-the-new-front-nine-at-kings-north/",
+    "https://www.myrtlebeachgolftrips.com/news/designed-to-challenge-a-hole-by-hole-look-at-kings-norths-par-3s/",
+    "https://www.myrtlebeachgolftrips.com/news/kings-north-got-harder-breaking-down-the-new-slope-rating-and-renovation-impact/",
+    "https://www.myrtlebeachgolftrips.com/news/kings-north-at-myrtle-beach-national-hole-by-hole-aerial-photos/",
+    "https://www.myrtlebeachgolftrips.com/news/kings-north-faq-everything-you-need-to-know-before-you-play/",
+    "https://www.tripadvisor.com/Attraction_Review-g54359-d106944-Reviews-King_s_North_At_Myrtle_Beach_National-Myrtle_Beach_South_Carolina.html",
+    "https://www.tripadvisor.com/ShowUserReviews-g54359-d106944-r1787434-King_s_North_At_Myrtle_Beach_National-Myrtle_Beach_South_Carolina.html",
+    "https://www.yelp.com/biz/myrtle-beach-national-myrtle-beach",
+    "https://www.si.com/golf/travel/feature-2018-11-13-myrtle-beach-national-golf-club-kings-north-8-0-score",
+    "https://forums.golfwrx.com/topic/1860343-myrtle-kings-north-or-tpc/",
+    "https://forums.golfwrx.com/topic/2048139-myrtle-beach-must-plays/",
+    "https://course.bluegolf.com/bluegolf/course/course/myrtlebeachgckn/detailedscorecard.htm"
+  ],
+  "research_notes": "Built from WebSearch result snippets only — direct WebFetch was blocked by the network allowlist, so a few finer details were inferred from multiple corroborating snippets rather than read directly from primary pages.\n\nKey corrections vs. the original task brief:\n1. The task brief said the 'SC bunker green' is on the par-5 18th. That is incorrect per every source consulted. The SC-shaped bunkers ring the par-3 12th (island green); the par-4 18th is 'The Bull's-Eye,' historically lined by ~40 bunkers from tee to green. Both are signature, but they're different holes. signature_hole_numbers therefore = [6, 12, 18] rather than the brief's [6, 18].\n2. Hole 18 is a par 4, not a par 5. King's North is par 72 = 4 par 5s (1, 6, 10, 15) and 4 par 3s (4, 8, 12, 17).\n3. The course just completed a major two-stage renovation (June 2024 - October 2025) by Brandon Johnson of Arnold Palmer Design Company. The 2026 course is meaningfully different from any historical writeup older than 2025 — the SC bunker complex at #12 was 'reinterpreted,' the 18th was 'completely reconfigured,' and several greens/bunkers were reshaped. Hole descriptions in this file reflect the post-renovation course where sourced; older details are noted as historical.\n\nGaps / lower-confidence items:\n- Yardages for holes 10, 11, 13, 14, 15, 16, 17, 18 from non-championship tees are best-estimates derived from total yardage (6,903 back) and the published 2024-25 scorecard ratios; the championship/back yardages for the renovated back nine were not exhaustively published in search snippets. For exact tournament use, verify against the printed scorecard.\n- Handicap stroke indexes are sourced where available and inferred where not (especially 11, 13, 16) — the only firmly cited indexes are 6=#2, 8=Out, 15=#1 In, 9=#4 Out, 7=#6.\n- Clubhouse hours and signature drink: no source provided either; left null. Phone (843) 448-2308 is the main MBN line per Yelp/aggregators; King's North does not have a separate phone.\n- Tripadvisor 'The Gambler is Awesome' review is genuine but the URL points to an aggregate listing — exact reviewer handle/date not surfaced in search snippets.\n- No course flyover videos or hero imagery URLs collected (WebFetch blocked); these can be filled later from MBN's official media page and YouTube channel.\n- One snippet incorrectly attributed the SC-shaped bunkers to hole 3; this was corrected against the official MBN site description and multiple other sources placing them at hole 12."
+}

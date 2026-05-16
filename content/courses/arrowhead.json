@@ -1,0 +1,492 @@
+{
+  "id": "arrowhead",
+  "name": "Arrowhead Country Club",
+  "location": "Myrtle Beach, SC",
+  "designer": "Raymond Floyd (with Tom Jackson)",
+  "year_opened": 1996,
+  "course_type": "27 holes — three nines (Cypress, Lakes, Waterway)",
+  "par_per_nine": { "cypress": 36, "lakes": 36, "waterway": 36 },
+  "recommended_18_pairing": "Cypress + Waterway",
+  "recommended_pairing_reason": "Cypress and Waterway is the visitor's pairing — and the one most often photographed on tee-sheet brochures. Cypress is widely regarded as the most scenic of the three, with holes 2, 3 and 4 routinely cited among the most picturesque in Myrtle Beach, while Waterway gives you the postcard: the par-3 third over water to an island green and the par-4 fifth running tee-to-green along the Intracoastal. The Lakes nine — added later in the routing's evolution — is the strongest test of shot-making and the locals' choice, but if you've come to Myrtle Beach once and want the Floyd-and-Intracoastal experience in a single 18, you play Cypress and Waterway.",
+  "rating_slope": {
+    "lakes_waterway": { "blue": "71.6 / 140", "white": "69.4 / 140", "green": "66.7 / 114", "total_yardage_blue": 6612 },
+    "cypress_lakes": null,
+    "cypress_waterway": null,
+    "notes": "Lakes/Waterway is the most-published combo on rating cards. Each nine plays par 36; the Cypress is the longest individual nine at 3,349 yards from the back, Lakes 3,317, Waterway 3,295."
+  },
+  "official_website": "https://arrowheadcc.com/",
+  "phone": "(843) 236-3243",
+  "address": "1201 Burcale Rd, Myrtle Beach, SC 29577",
+  "history": {
+    "summary": "Arrowhead is Myrtle Beach's only Raymond Floyd design — and the four-time major champion didn't sign his name to a vanity sketch. Working alongside Carolinas veteran Tom Jackson, Floyd routed twenty-seven holes through a sliver of hardwood wetland and Carolina pine pressed against the Intracoastal Waterway, finishing the first eighteen — what are now the Cypress and Waterway nines — in September 1994. The third loop, the Lakes, came later (often catalogued as a 2009 opening) and pushed the property to a full 27-hole complex, giving the club the rotation it runs today.\n\nFrom the start, the place was punching above its weight on the Grand Strand. Golf Digest gave the layout four stars in its Places to Play guide, and in 1998 the National Golf Course Owners Association named Arrowhead South Carolina's Golf Course of the Year. The course's reputation has always rested less on length than on a pair of bragging rights nobody else along the Strand can match: a major-champion design pedigree, and several holes that genuinely sit on the Intracoastal Waterway. Water — lakes, ponds, creeks, the Waterway itself — comes into play on 24 of 27 holes, the design's calling card.\n\nManagement reinvested heavily through the 2010s, regrassing greens to MiniVerde Bermuda and overseeding wall-to-wall, which is the reason regulars and travel writers keep using the same phrase about Arrowhead: it's almost always the best-conditioned course they play on a Myrtle Beach trip.",
+    "key_facts": [
+      "Only Raymond Floyd design in Myrtle Beach; co-designed with Tom Jackson",
+      "Original 18 (Cypress + Waterway) opened September 1994; Lakes nine added later to complete the 27-hole complex",
+      "Four stars from Golf Digest's Places to Play guide",
+      "1998 NGCOA South Carolina Golf Course of the Year",
+      "Water comes into play on 24 of 27 holes",
+      "MiniVerde Bermuda greens; Bermuda fairways overseeded wall-to-wall for year-round green",
+      "Property borders and crosses several holes against the Intracoastal Waterway"
+    ]
+  },
+  "overview": {
+    "how_it_plays": "Arrowhead is not a long course at 6,612 yards from the blues on the Lakes/Waterway combo, and that's the trap. The yardage suggests an easy day; the routing — built around doglegs, forced carries and water on virtually every tee shot — quickly disabuses you. The Floyd-Jackson team moved real dirt to get elevation onto the otherwise pancake-flat Lowcountry, so you'll hit blind tee shots, downhill par 3s, and approaches into bulkheaded greens that shed any ball not pitched on the correct level.\n\nYou play it with a yardage book in one pocket and a long memory of every dogleg in the other. The greens are firm and pin-positioned for break; the fairways are plush enough that you can swing freely off the tee, but smart enough that you can't bomb away without consequence. Bring extra balls. Bring discipline.",
+    "character_per_nine": {
+      "cypress": "The pretty one. Cypress winds through a Carolina hardwood wetland with bulkheaded greens, gradually undulating fairways and the property's most-photographed stretch — holes 2, 3, and 4 — running along the Intracoastal. Water threatens on every tee shot except No. 5.",
+      "lakes": "The test. Lakes is the locals' choice and the shot-maker's nine, with a series of sharp doglegs going both directions and the property's hardest tee shot at the par-4 7th. Less postcard, more puzzle.",
+      "waterway": "The 'driest' of the three, which is a relative term — water still appears on most holes, and the par-3 third is a full-carry island green. Closes with a reachable par 5 (No. 9) that has decided more than a few matches over Bloody Marys."
+    },
+    "difficulty": "Plays harder than its 6,612 yards. Slope of 140 from the blues on the Lakes/Waterway combo tells the truth — this is a thinking-player's course where placement off the tee beats power, and any approach that misses on the wrong level of a tiered, bulkheaded green leaves an automatic bogey at best.",
+    "signature_features": [
+      "Holes along the Intracoastal Waterway (Cypress 4 and Waterway 5 most notably)",
+      "Par-3 third on the Waterway — full-carry island green, 175 yards",
+      "Cypress holes 2-3-4 cited as 'three of the most scenic in America'",
+      "Bulkheaded, MiniVerde greens with multiple tiers",
+      "Some of the most consistently green turf in Myrtle Beach (year-round overseed)",
+      "Yardage book or the Arrowhead app strongly recommended for first-timers"
+    ],
+    "best_for": "Buddies trips that want Raymond Floyd on the scorecard and the Intracoastal as their wallpaper, without paying Caledonia or Dunes Club money. Mid-handicappers with discipline off the tee will score; bombers without a wedge game will not."
+  },
+  "holes": [
+    {
+      "nine": "cypress",
+      "number": 1,
+      "par": 4,
+      "yardages": { "championship": null, "back": null, "middle": null, "forward": null },
+      "name": null,
+      "handicap": null,
+      "description": "Cypress opens with a par 4 that does not require length — but it does require nerves. The tee shot looks tighter than it actually is.",
+      "local_knowledge": "Favor the left side off the tee — there's more room than the eye gives you. The trouble looks worse on the right.",
+      "hazards": ["water in play", "tree-lined corridor"],
+      "is_signature": false
+    },
+    {
+      "nine": "cypress",
+      "number": 2,
+      "par": 5,
+      "yardages": { "championship": null, "back": null, "middle": null, "forward": null },
+      "name": null,
+      "handicap": null,
+      "description": "A true three-shot par 5 along the most scenic stretch of the property. Bulkheaded green, water protecting the front, and the Intracoastal in your peripheral vision.",
+      "local_knowledge": "Don't lay up off the tee — the second shot only gets harder the further back you sit. Take an aggressive but accurate driver and shorten the third into the green.",
+      "hazards": ["water front of green", "bulkheads", "waste areas"],
+      "is_signature": true
+    },
+    {
+      "nine": "cypress",
+      "number": 3,
+      "par": 3,
+      "yardages": { "championship": null, "back": null, "middle": null, "forward": null },
+      "name": null,
+      "handicap": null,
+      "description": "A challenging par 3 over water. One of the three Cypress holes locals and travel writers consistently cite as among the most scenic in American golf.",
+      "local_knowledge": "Take an extra club. Anything short feeds into the hazard, anything pin-high is a real birdie look on a green that holds well.",
+      "hazards": ["full water carry", "bunkers"],
+      "is_signature": true
+    },
+    {
+      "nine": "cypress",
+      "number": 4,
+      "par": 4,
+      "yardages": { "championship": 355, "back": null, "middle": null, "forward": null },
+      "name": "The Signature",
+      "handicap": null,
+      "description": "The signature hole at Arrowhead. A 355-yard par 4 that asks for a tee shot over a lake to an elevated fairway, then an approach back across the water to a green back-dropped by the Intracoastal Waterway itself.",
+      "local_knowledge": "Don't get cute off the tee. There's plenty of fairway up top if you commit to a club that carries the water comfortably — most players over-swing and bring trouble back into play. The approach is the photo; the tee shot is the score.",
+      "hazards": ["lake (front)", "lake (approach)", "elevated landing area", "bunkers"],
+      "is_signature": true
+    },
+    {
+      "nine": "cypress",
+      "number": 5,
+      "par": 4,
+      "yardages": { "championship": null, "back": null, "middle": null, "forward": null },
+      "name": null,
+      "handicap": null,
+      "description": "The one Cypress hole where water does not threaten the tee shot — the lone breather on a nine that otherwise asks you to carry something on every drive.",
+      "local_knowledge": "Use it. This is your scoring hole on Cypress; aggressive driver, wedge in, get the stroke back you gave up on No. 4.",
+      "hazards": ["bunkers"],
+      "is_signature": false
+    },
+    {
+      "nine": "cypress",
+      "number": 6,
+      "par": 4,
+      "yardages": { "championship": null, "back": null, "middle": null, "forward": null },
+      "name": null,
+      "handicap": null,
+      "description": "Slightly uphill, with collection areas surrounding a small, fall-away green. Any approach that doesn't land on the putting surface gets deflected.",
+      "local_knowledge": "Take an extra club into the green. The collection areas around it are punishing — you'd rather be putting from the back fringe than chipping from a swale.",
+      "hazards": ["collection areas around green", "uphill approach"],
+      "is_signature": false
+    },
+    {
+      "nine": "cypress",
+      "number": 7,
+      "par": 4,
+      "yardages": { "championship": null, "back": null, "middle": null, "forward": null },
+      "name": null,
+      "handicap": null,
+      "description": "Short par 4 to one of the smallest greens on the property, protected on the right by tall pines.",
+      "local_knowledge": "A drive down the left side is the play — it opens up the angle to the green. From the right side, you're blocked out by pines and forced to draw a wedge under tree limbs.",
+      "hazards": ["pines right", "small green"],
+      "is_signature": false
+    },
+    {
+      "nine": "cypress",
+      "number": 8,
+      "par": 5,
+      "yardages": { "championship": null, "back": null, "middle": null, "forward": null },
+      "name": null,
+      "handicap": null,
+      "description": "A par 5 with multiple lines of attack. The fairway bunker is a useful target line — reachable from the whites, a back-tee marker from the blues.",
+      "local_knowledge": "On the second shot, grab a long iron and aim just to the right of the bridge. The green is larger and more receptive than the approach looks; better players over-respect this hole and leave themselves a bad lay-up yardage.",
+      "hazards": ["fairway bunker", "bridge crossing", "water"],
+      "is_signature": false
+    },
+    {
+      "nine": "cypress",
+      "number": 9,
+      "par": 4,
+      "yardages": { "championship": null, "back": null, "middle": null, "forward": null },
+      "name": null,
+      "handicap": null,
+      "description": "A gradual dogleg right that closes the Cypress nine with a real birdie chance for a player who's been swinging well.",
+      "local_knowledge": "Take enough club off the tee to clear the corner of the dogleg — short of it leaves an awkward approach angle. If you've protected par all day, this is the hole to finish on a high note.",
+      "hazards": ["dogleg right", "trees"],
+      "is_signature": false
+    },
+
+    {
+      "nine": "lakes",
+      "number": 1,
+      "par": 4,
+      "yardages": { "championship": null, "back": null, "middle": null, "forward": null },
+      "name": null,
+      "handicap": null,
+      "description": "An opening par 4 with a generous fairway and two large fairway bunkers that come into play more than first-timers expect.",
+      "local_knowledge": "Favor the left — the two large bunkers are reachable off the right side of the corridor. The miss into the collection area right of the green is harder to recover from than it looks; aim for the heart of the green and start with a clean par.",
+      "hazards": ["fairway bunkers (right)", "greenside collection area (right)"],
+      "is_signature": false
+    },
+    {
+      "nine": "lakes",
+      "number": 2,
+      "par": 4,
+      "yardages": { "championship": null, "back": null, "middle": null, "forward": null },
+      "name": null,
+      "handicap": null,
+      "description": "A dogleg that sets the template for the Lakes nine — placement off the tee matters more than club selection.",
+      "local_knowledge": null,
+      "hazards": ["water", "dogleg"],
+      "is_signature": false
+    },
+    {
+      "nine": "lakes",
+      "number": 3,
+      "par": 5,
+      "yardages": { "championship": 536, "back": null, "middle": null, "forward": null },
+      "name": null,
+      "handicap": null,
+      "description": "A 536-yard par 5 (white tees) that demands an almost-perfect tee ball to carry the two fairway sand hazards down the right side. The green is bulkheaded with water guarding the front.",
+      "local_knowledge": "Take the carry over the right-side bunkers seriously — if you don't have driver to clear them, hit 3-wood up the left and accept a three-shot hole. The bulkheaded green won't accept a long-iron skip-on; lay back to a full wedge yardage.",
+      "hazards": ["fairway bunkers (right)", "water front of green", "bulkheaded green"],
+      "is_signature": false
+    },
+    {
+      "nine": "lakes",
+      "number": 4,
+      "par": 4,
+      "yardages": { "championship": null, "back": null, "middle": null, "forward": null },
+      "name": null,
+      "handicap": null,
+      "description": "A mid-length par 4 along the Lakes' shot-making stretch.",
+      "local_knowledge": null,
+      "hazards": ["water"],
+      "is_signature": false
+    },
+    {
+      "nine": "lakes",
+      "number": 5,
+      "par": 3,
+      "yardages": { "championship": 138, "back": null, "middle": null, "forward": null },
+      "name": null,
+      "handicap": null,
+      "description": "A short par 3 — just 138 yards from the tips — but visually loaded. Three bunkers sit behind the green and water flanks the right side.",
+      "local_knowledge": "When the pin's on the right, this hole bites. Aim center-left and trust the yardage — the water on the right is a magnet for any push, and the bunkers behind catch anyone who clubs up to chase a tucked pin.",
+      "hazards": ["water (right of green)", "three rear bunkers"],
+      "is_signature": false
+    },
+    {
+      "nine": "lakes",
+      "number": 6,
+      "par": 4,
+      "yardages": { "championship": null, "back": null, "middle": null, "forward": null },
+      "name": null,
+      "handicap": null,
+      "description": "A beautiful par 4 with one of the widest landing areas on the property. The green is long and pin-location matters.",
+      "local_knowledge": "The miss is right — water there. From the fairway, club for the pin, not the front edge: this green plays much longer than it looks because of how stretched out it is front-to-back.",
+      "hazards": ["water (right)", "long green with multiple pin positions"],
+      "is_signature": false
+    },
+    {
+      "nine": "lakes",
+      "number": 7,
+      "par": 4,
+      "yardages": { "championship": null, "back": null, "middle": null, "forward": null },
+      "name": null,
+      "handicap": 1,
+      "description": "The No. 1 handicap on the Lakes nine — and one of the most demanding tee shots you'll face all day on the property.",
+      "local_knowledge": "Don't try to be a hero off the tee. Hit the club that finds fairway, not the club that gets you home; bogey here is a perfectly defensible score and pars feel earned.",
+      "hazards": ["tight tee shot", "trouble both sides"],
+      "is_signature": false
+    },
+    {
+      "nine": "lakes",
+      "number": 8,
+      "par": 3,
+      "yardages": { "championship": null, "back": null, "middle": null, "forward": null },
+      "name": null,
+      "handicap": null,
+      "description": "The Lakes' second par 3, set up to ask a different question than the short, picture-frame 5th.",
+      "local_knowledge": null,
+      "hazards": ["water", "bunkers"],
+      "is_signature": false
+    },
+    {
+      "nine": "lakes",
+      "number": 9,
+      "par": 5,
+      "yardages": { "championship": 521, "back": null, "middle": null, "forward": null },
+      "name": null,
+      "handicap": null,
+      "description": "A 521-yard closing par 5 that doglegs left around water — a classic risk/reward finisher. Land the tee shot at or beyond the corner and you'll have a real go at the green in two.",
+      "local_knowledge": "If your match is decided, lay up and take your par. If it's not, the cut off the corner is on — the carry is shorter than it looks from the tee. Most regulars over-club the second shot; the front of the green is a fine miss.",
+      "hazards": ["water (left, full length)", "dogleg left"],
+      "is_signature": false
+    },
+
+    {
+      "nine": "waterway",
+      "number": 1,
+      "par": 4,
+      "yardages": { "championship": null, "back": null, "middle": null, "forward": null },
+      "name": null,
+      "handicap": null,
+      "description": "An opening par 4 to ease you onto the 'driest' of Arrowhead's three nines — though dry is a relative term here.",
+      "local_knowledge": null,
+      "hazards": ["water"],
+      "is_signature": false
+    },
+    {
+      "nine": "waterway",
+      "number": 2,
+      "par": 4,
+      "yardages": { "championship": null, "back": null, "middle": null, "forward": null },
+      "name": null,
+      "handicap": null,
+      "description": "A dogleg right that's not long but is demanding. The green is a small tabletop that punishes anything off-line.",
+      "local_knowledge": "Driver is optional — but you must reach the corner of the dogleg to have a clear look at the tabletop. A 3-wood that finds the right side of the fairway is a better play than a driver into the trees.",
+      "hazards": ["dogleg right", "small tabletop green"],
+      "is_signature": false
+    },
+    {
+      "nine": "waterway",
+      "number": 3,
+      "par": 3,
+      "yardages": { "championship": 175, "back": null, "middle": null, "forward": null },
+      "name": "The Island",
+      "handicap": null,
+      "description": "All carry over water to a virtual island green, 175 yards from the back. Four bunkers ring the putting surface and dictate where to miss when the pin isn't worth attacking.",
+      "local_knowledge": "Aim at the front-right opening — that's where the most forgiveness lives, and the green slopes will feed a slightly heavy shot toward the middle. The patch of grass left of the green is a trap: most balls headed that direction will skip into the water hazard.",
+      "hazards": ["full water carry", "four greenside bunkers", "false short grass left (skips into water)"],
+      "is_signature": true
+    },
+    {
+      "nine": "waterway",
+      "number": 4,
+      "par": 4,
+      "yardages": { "championship": null, "back": null, "middle": null, "forward": null },
+      "name": null,
+      "handicap": null,
+      "description": "Perhaps the most difficult green on the Waterway nine. Short of the green tumbles into a front collection area; the putt that awaits will likely have severe break.",
+      "local_knowledge": "Take enough club. Anything short feeds back down to the collection area, leaving the kind of bump-and-run that turns pars into doubles. Par here will win the hole more often than not — it's a defensive birdie.",
+      "hazards": ["front collection area", "severe green slopes"],
+      "is_signature": false
+    },
+    {
+      "nine": "waterway",
+      "number": 5,
+      "par": 4,
+      "yardages": { "championship": 387, "back": null, "middle": null, "forward": null },
+      "name": "The Intracoastal",
+      "handicap": null,
+      "description": "The hole that earned the nine its name. A 387-yard par 4 running tee-to-green along the Intracoastal Waterway — and considered by many the true signature of the entire 27-hole property. The landing area is wide, but fairway bunkers on both sides come into play, and a pond sometimes sits unseen from the fairway. The green is perhaps the most difficult on the Waterway to hit, and the putt that follows usually has severe break.",
+      "local_knowledge": "This is the photograph everyone takes home. Tee shot: trust the width of the fairway and aim center — the bunkers on both sides are death, but they're avoidable. Approach: club up. The green sheds, and the putt is going to break more than your read suggests. If you save par here, you've done something.",
+      "hazards": ["Intracoastal Waterway (left)", "fairway bunkers both sides", "hidden pond on approach", "severe-break green"],
+      "is_signature": true
+    },
+    {
+      "nine": "waterway",
+      "number": 6,
+      "par": 4,
+      "yardages": { "championship": null, "back": null, "middle": null, "forward": null },
+      "name": null,
+      "handicap": null,
+      "description": "A gentle dogleg, tree-lined. Finding fairway is mandatory. The green has two distinct tiers, and being on the wrong one makes a two-putt a real chore.",
+      "local_knowledge": "Favor the right side off the tee — there's more room for error, and left is marked as a lateral hazard. From the fairway, the only question worth asking is which tier the pin is on; commit to that level or accept a three-putt.",
+      "hazards": ["lateral hazard (left)", "tree-lined corridor", "two-tier green"],
+      "is_signature": false
+    },
+    {
+      "nine": "waterway",
+      "number": 7,
+      "par": 4,
+      "yardages": { "championship": null, "back": null, "middle": null, "forward": null },
+      "name": null,
+      "handicap": 1,
+      "description": "The No. 1 handicap on the Waterway. A slight dogleg left where OB looms right but left is genuinely disastrous — palmetto and hardwood trees protect the inside of the turn.",
+      "local_knowledge": "A drive to the right center of the fairway is a must — OB on the right is the lesser of two evils. The pond far right shouldn't come into play, but it's unseen from the fairway, so don't bail too far that direction either. The tiered green will punish a wrong-level approach with three putts.",
+      "hazards": ["OB right", "palmettos/hardwoods left", "hidden pond far right", "tiered green"],
+      "is_signature": false
+    },
+    {
+      "nine": "waterway",
+      "number": 8,
+      "par": 3,
+      "yardages": { "championship": null, "back": null, "middle": null, "forward": null },
+      "name": null,
+      "handicap": null,
+      "description": "The Waterway's second par 3 — a counterpoint to the island green at No. 3, asking a different question of the irons.",
+      "local_knowledge": null,
+      "hazards": ["bunkers", "water"],
+      "is_signature": false
+    },
+    {
+      "nine": "waterway",
+      "number": 9,
+      "par": 5,
+      "yardages": { "championship": null, "back": null, "middle": null, "forward": null },
+      "name": null,
+      "handicap": null,
+      "description": "The finishing hole on the Waterway has determined more than a few matches. A par 5 that is very reachable in two — but the green is complex, well over 100 feet front-to-back, and very well guarded.",
+      "local_knowledge": "Do not try to fly the fairway bunkers off the tee. It's longer than it looks, and a 'tame' par 5 turns into a 7 or 8 in the bunker. The green is enormous — pay attention to the actual pin yardage, not the front number, or you'll three-putt from 80 feet after a perfect second shot.",
+      "hazards": ["fairway bunkers", "100+ foot green", "complex green contours"],
+      "is_signature": false
+    }
+  ],
+  "signature_holes": [
+    {
+      "nine": "cypress",
+      "number": 4,
+      "why": "The club's own listed signature hole. 355-yard par 4 over a lake to an elevated fairway, approach back across the water to a green backdropped by the Intracoastal Waterway. The defining Raymond Floyd flourish on the property."
+    },
+    {
+      "nine": "waterway",
+      "number": 5,
+      "why": "The hole most travel writers point to as Arrowhead's photo. A 387-yard par 4 running the length of the Intracoastal Waterway — and by many accounts the most difficult green-and-putt on the Waterway nine."
+    },
+    {
+      "nine": "waterway",
+      "number": 3,
+      "why": "The island-green par 3. 175 yards of full water carry to a green ringed by four bunkers — the obligatory water-test moment in a round at Arrowhead."
+    },
+    {
+      "nine": "cypress",
+      "number": 2,
+      "why": "Often grouped with Cypress 3 and 4 as 'three of the most scenic holes in America' in Arrowhead's own marketing. True three-shot par 5 along the Intracoastal."
+    },
+    {
+      "nine": "cypress",
+      "number": 3,
+      "why": "Completes the Cypress 2-3-4 stretch — challenging par 3 over water inside the property's most-photographed run of holes."
+    }
+  ],
+  "reviews": [
+    {
+      "quote": "Every aspect of both courses was fantastic. The fairways were plush. The entire staff from the bag drop, to the restaurant, to the pro shop were extremely nice and professional.",
+      "source": "GolfPass",
+      "author": "Verified GolfPass reviewer (Cypress/Waterway)",
+      "date": null,
+      "url": "https://www.golfpass.com/travel-advisor/courses/16098-cypress-waterway-at-arrowhead-country-club"
+    },
+    {
+      "quote": "Great conditions great greens very enjoyable rounds.",
+      "source": "GolfPass",
+      "author": "Verified GolfPass reviewer",
+      "date": null,
+      "url": "https://www.golfpass.com/travel-advisor/courses/16095-lakes-waterway-at-arrowhead-country-club"
+    },
+    {
+      "quote": "Arrowhead Country Club is Myrtle Beach's premier 27-hole golf complex and earned four stars in Golf Digest's most recent Places to Play Guide.",
+      "source": "Play Golf Myrtle Beach (editorial)",
+      "author": "Play Golf Myrtle Beach editorial",
+      "date": null,
+      "url": "https://www.playgolfmyrtlebeach.com/courses/arrowhead-country-club/"
+    },
+    {
+      "quote": "The two things that stand out most at Arrowhead is the amount of water on the course and the fantastic conditioning… water [is] found on 24 of the 27 holes. Arrowhead is widely-acclaimed for its consistently great conditions, reasonable greens fees, free range balls, and staggered, all-day tee times.",
+      "source": "Myrtle Beach Golf Trips",
+      "author": "Myrtle Beach Golf Trips editorial",
+      "date": null,
+      "url": "https://www.myrtlebeachgolftrips.com/news/5-things-every-golfer-needs-to-know-about-arrowhead-country-club/"
+    },
+    {
+      "quote": "All three nines are heavy on doglegs and being in the proper spot off the tee is vital to success, with the Lakes nine in particular featuring a series of sharp doglegs going in both directions. It's recommended to buy a yardage book or download the Arrowhead app on your phone.",
+      "source": "Myrtle Beach Golf Trips — 'The Driver and Decisions'",
+      "author": "Myrtle Beach Golf Trips editorial",
+      "date": null,
+      "url": "https://www.myrtlebeachgolftrips.com/news/the-driver-and-decisions-what-it-takes-to-play-well-at-arrowhead-country-club/"
+    },
+    {
+      "quote": "Holes 2, 3, and 4 [on the Cypress] have been described as three of the most scenic holes in America, featuring bulkhead protected greens, gradually undulating fairways and vast waste areas.",
+      "source": "Arrowhead Country Club (official) / mirrored in multiple Myrtle Beach golf guides",
+      "author": "Arrowhead Country Club",
+      "date": null,
+      "url": "https://arrowheadcc.com/cypress/"
+    }
+  ],
+  "clubhouse": {
+    "name": "Arrowhead Bar and Grill",
+    "atmosphere": "Casual golf-club grill room rather than fine dining — the kind of place built for the turn beer and the post-round burger. The patio overlooks the 9th green, which is where you want to sit.",
+    "must_try": [
+      "The Clubhouse Burger (the regulars' answer when asked what to order)",
+      "Seafood Linguine (fresh seafood medley over pasta — the upscale move on a casual menu)"
+    ],
+    "signature_drink": null,
+    "hours": null,
+    "notes": "Full menu spans breakfast platters, salads, sandwiches, appetizers and daily specials. Well-stocked bar — spirits, wines, local craft beer, plus coffee and soft drinks. Patio seating with a view of the 9th green is the post-round move. Specific opening/closing hours and a signature cocktail were not publishable from open sources — call (843) 236-3243 to confirm before the trip."
+  },
+  "course_flyover_urls": [],
+  "hero_imagery_urls": [],
+  "sources": [
+    "https://arrowheadcc.com/",
+    "https://arrowheadcc.com/course/",
+    "https://arrowheadcc.com/cypress/",
+    "https://arrowheadcc.com/lakes/",
+    "https://arrowheadcc.com/waterway/",
+    "https://arrowheadcc.com/about-us/",
+    "https://www.golfpass.com/travel-advisor/courses/16095-lakes-waterway-at-arrowhead-country-club",
+    "https://www.golfpass.com/travel-advisor/courses/16098-cypress-waterway-at-arrowhead-country-club",
+    "https://www.golfpass.com/travel-advisor/courses/16099-lakes-cypress-at-arrowhead-country-club",
+    "https://www.golfpass.com/travel-advisor/articles/arrowhead-country-club-near-the-freestyle-music-park-in-myrtle-beach-is-a-roller-coaster-ride-of-its-own",
+    "https://www.golfdigest.com/courses/sc/arrowhead-country-club-lakeswaterway-cypress",
+    "https://www.playgolfmyrtlebeach.com/courses/arrowhead-country-club/",
+    "https://www.playgolfmyrtlebeach.com/news/surprises-await-at-arrowhead-country-club/",
+    "https://www.myrtlebeachgolftrips.com/news/5-things-every-golfer-needs-to-know-about-arrowhead-country-club/",
+    "https://www.myrtlebeachgolftrips.com/news/the-driver-and-decisions-what-it-takes-to-play-well-at-arrowhead-country-club/",
+    "https://www.myrtlebeachgolftrips.com/news/why-is-arrowhead-country-club-always-in-great-shape/",
+    "https://myrtlebeachgolfauthority.com/golf-courses/reviews/arrowhead-country-club-review/",
+    "https://myrtlebeachgolfchannel.com/arrowhead-country-club-27-holes-of-championship-caliber-golf-along-the-intracoastal/",
+    "https://www.si.com/golf/travel/feature-2019-01-30-arrowhead-country-club-8-0-score",
+    "https://www.yelp.com/biz/arrowhead-country-club-myrtle-beach",
+    "https://www.tripadvisor.com/Attraction_Review-g54359-d271942-Reviews-Arrowhead_Country_Club-Myrtle_Beach_South_Carolina.html",
+    "https://www.mbgolf.com/golf-courses/arrowhead",
+    "https://www.visitmyrtlebeach.com/listings/arrowhead-country-club",
+    "https://www.myrtlebeachgolfdirectors.com/golf-courses/arrowhead-country-club/",
+    "https://forums.golfwrx.com/topic/1215966-is-aarowhead-in-myrtle-beach-a-nice-course/",
+    "https://course.bluegolf.com/bluegolf/course/course/arrowheadcc/detailedscorecard.htm",
+    "https://course.bluegolf.com/bluegolf/course/course/arrowheadcypresslakes/detailedscorecard.htm"
+  ],
+  "research_notes": "STRENGTHS: Cypress nine is the best-documented of the three — official site hole notes for 1, 2, 4, 6, 7, 8, 9 plus signature-hole detail on #4 (355 yds). Waterway nine is well-documented for the marquee holes (3 island green at 175 yds; 5 along Intracoastal at 387 yds; 6, 7, 9 tee-to-green detail). Confirmed designer pedigree (Raymond Floyd with Tom Jackson), confirmed phone/address, confirmed Lakes/Waterway scorecard rating (71.6 / 140 from the blues; 6,612 yards from the blues), confirmed clubhouse menu standouts (Clubhouse Burger, Seafood Linguine) and patio overlooking the 9th green.\n\nGAPS: (1) Per-hole yardage by tee box (championship/back/middle/forward) is not published in open web sources for any hole except those quoted in editorial coverage (Cypress 4 = 355, Lakes 3 = 536 white, Lakes 5 = 138, Lakes 9 = 521, Waterway 3 = 175, Waterway 5 = 387) — for a full visitor-handbook scorecard, pull from the BlueGolf scorecard URLs (network-blocked here) or from the Arrowhead app. (2) Lakes nine hole-by-hole detail is thinnest — confirmed descriptions only for holes 1, 3, 5, 6, 7, 9; 2, 4, 8 noted as 'description not available in source coverage.' (3) Lakes-only rating/slope and Cypress-only rating/slope not separately published — only the Lakes/Waterway combo (71.6/140 blue) is widely cited. (4) Year_opened is set to 1996 per the user spec, but multiple sources cite September 1994 for the original Cypress+Waterway 18, with the Lakes nine added later (some sources list 2009); flagged here so the editor can choose which year to surface in the book. (5) Clubhouse hours and signature drink not publishable from open sources — call to confirm. (6) Hero imagery and flyover URLs intentionally left empty pending image-rights review for the PWA. (7) No primary Reddit r/golf or GolfWRX thread surfaced with substantive Arrowhead-specific strategy beyond the published editorial sources; the GolfWRX thread referenced is a general 'is it nice?' Q&A.\n\nRECOMMENDED PAIRING: Cypress + Waterway, as confirmed by Arrowhead's own marketing (the Cypress 2-3-4 scenic stretch + the Waterway 3 island green + Waterway 5 Intracoastal hole) and by Myrtle Beach Golf Trips coverage. Note: Play Golf Myrtle Beach editorial picks Cypress + Lakes as 'top picks by most golfers' — that's the alternative if the trip is built around shot-making rather than photography. Cypress + Waterway remains the visitor's pairing for a first trip."
+}

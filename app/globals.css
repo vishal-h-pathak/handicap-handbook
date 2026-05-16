@@ -1,0 +1,75 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    color-scheme: light;
+  }
+
+  html,
+  body {
+    background-color: theme('colors.cream');
+    color: theme('colors.ink');
+    font-family: theme('fontFamily.body');
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  body {
+    font-size: theme('fontSize.body[0]');
+    line-height: theme('fontSize.body[1].lineHeight');
+  }
+
+  h1,
+  h2,
+  h3 {
+    font-family: theme('fontFamily.display');
+    font-weight: 500;
+    color: theme('colors.ink');
+  }
+
+  /* Editorial small-caps label */
+  .label-eyebrow {
+    font-family: theme('fontFamily.body');
+    font-size: 0.6875rem;
+    font-weight: 600;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: theme('colors.brass');
+  }
+
+  /* Body prose blocks */
+  .prose-editorial p + p {
+    margin-top: 1.1em;
+  }
+
+  /* Subtle dotted rule used between sections */
+  .rule-dotted {
+    background-image: radial-gradient(theme('colors.muted') 1px, transparent 1px);
+    background-size: 6px 6px;
+    background-repeat: repeat-x;
+    background-position: center;
+    height: 6px;
+  }
+}
+
+@layer components {
+  .chip {
+    @apply inline-flex items-center gap-1.5 rounded-chip border border-ink/10 bg-surface px-3 py-1 text-xs font-medium text-ink;
+  }
+
+  .chip-brass {
+    @apply chip border-brass/30 bg-brass/5 text-brass;
+  }
+
+  .card-edge {
+    @apply rounded-card bg-surface shadow-card;
+  }
+}
+
+/* Mapbox token watermark cleanup — keep attribution but hide the default chrome on tiny screens */
+.mapboxgl-ctrl-attrib {
+  font-size: 10px !important;
+  background: rgba(245, 241, 234, 0.7) !important;
+}

@@ -1,0 +1,199 @@
+{
+  "trip_window": "May 22-25, 2026 approx (next weekend from May 16)",
+  "drive_times_matrix": {
+    "blackmoor_to_arrowhead": {
+      "miles": 13,
+      "minutes": 20,
+      "note": "North on US-17 from Murrells Inlet into central Myrtle Beach. Traffic on US-17 in summer can add 10-15 min."
+    },
+    "blackmoor_to_true_blue": {
+      "miles": 9,
+      "minutes": 15,
+      "note": "Short hop south on US-17 to Pawleys Island. Both courses share the south Grand Strand corridor."
+    },
+    "blackmoor_to_kings_north": {
+      "miles": 20,
+      "minutes": 30,
+      "note": "North on US-17 then west on Hwy 501 toward Conway. Adds drive time vs. coastal courses."
+    },
+    "arrowhead_to_true_blue": {
+      "miles": 22,
+      "minutes": 32,
+      "note": "South on US-17 through Surfside Beach and Murrells Inlet — the longest in-trip leg."
+    },
+    "arrowhead_to_kings_north": {
+      "miles": 7,
+      "minutes": 12,
+      "note": "Quick west-bound run along Hwy 501. Both are inland Myrtle Beach proper."
+    },
+    "true_blue_to_kings_north": {
+      "miles": 27,
+      "minutes": 38,
+      "note": "Longest leg of the trip — north up US-17 then west on Hwy 501. Plan for an early tee time if pairing them on the same day (don't)."
+    }
+  },
+  "suggested_play_order": {
+    "recommended_sequence": ["blackmoor", "true-blue", "arrowhead", "kings-north"],
+    "reasoning": "This sequence builds a clean south-to-north geographic arc that minimizes back-tracking and ends on the marquee. Day 1 opens at Blackmoor — a Gary Player design that is forgiving off the tee, has tight greens to wake up the short game, and lets the group settle in without humiliation. Day 2 stays in the same Pawleys/Murrells corridor at True Blue: it's a Mike Strantz wide-fairway, target-style course that rewards the swing you found yesterday, and it's only 9 miles down US-17 from where you slept. Day 3 shifts the trip north into Myrtle Beach proper for Arrowhead's 27-hole Floyd/Jackson layout — water on 24 of 27 holes, more strategic, a step up in difficulty. Day 4 finishes with King's North at Myrtle Beach National, a Palmer redesign featuring the famous island-fairway 6th 'The Gambler' and the par-3 12th over water — the marquee shot-value round to end on, and it's only 7 miles from Arrowhead so you can keep the same Myrtle Beach hotel for nights 3-4 if you split lodging."
+  },
+  "weather_context": {
+    "typical_late_may": "Late May in Myrtle Beach is the sweet spot before summer humidity sets in. Average high 79°F, average low 61°F, with daytime highs commonly reaching the mid-80s by the last week of the month. Rainfall averages 3.1 inches across the full month spread over ~8 days — typically afternoon pop-up storms rather than all-day rain. Roughly 9 hours of sunshine per day. May is outside Atlantic hurricane season (which starts June 1), so disruption risk is low.",
+    "what_to_pack": [
+      "Two polos per day (humidity soaks one through by the back nine)",
+      "Light rain jacket — afternoon thunderstorms move through fast",
+      "Sunscreen SPF 50+ and a wide-brim hat or visor; UV index hits 9-10 by midday",
+      "Bug spray for dawn rounds, especially Blackmoor's marsh holes and True Blue's wetland carries",
+      "Two pairs of golf shoes so one can dry overnight",
+      "Lightweight pants or shorts — collared shirts required at all four courses (no tank tops, no denim)",
+      "Hand towel for grips, plus extra gloves (sweat will trash one glove per round)",
+      "Reusable water bottle — heat stroke risk is real for visitors not acclimated to Lowcountry humidity"
+    ],
+    "note": "App will pull live forecast from Open-Meteo at runtime — this is the seasonal context for the editorial copy"
+  },
+  "lodging_recommendations": [
+    {
+      "name": "Litchfield Beach & Golf Resort",
+      "type": "resort",
+      "area": "Pawleys Island",
+      "why": "The default golf-trip headquarters for the south Grand Strand. Sits on 600 acres of oceanfront/lakeside ground in Pawleys, putting Blackmoor (12 min) and True Blue (8 min) practically out the back door. Condo and villa inventory means you can split a 3-4 bedroom unit and cook breakfast before early tee times. Stay-and-play packages bundle access to seven additional Waccamaw-area courses if a fifth round comes up.",
+      "approx_price_per_night_usd": "$180-$320 depending on unit size and ocean proximity"
+    },
+    {
+      "name": "Marina Inn at Grande Dunes",
+      "type": "resort",
+      "area": "Myrtle Beach proper",
+      "why": "Upscale option on the Intracoastal Waterway with a more polished hotel feel than the typical MB high-rise. ~20 min to MYR airport, central enough to reach Arrowhead and King's North in 15-20 min, but the trade-off is a 30-35 min haul down to Blackmoor and True Blue. Best for a group that wants a real concierge, two on-site restaurants, and a marina view at the end of the round.",
+      "approx_price_per_night_usd": "$220-$400"
+    },
+    {
+      "name": "Hampton Inn & Suites Myrtle Beach Oceanfront (or similar US-17 mid-tier chain)",
+      "type": "hotel",
+      "area": "Myrtle Beach proper",
+      "why": "The budget-conscious workhorse choice. Free breakfast (pre-tee-time fuel), reliable rooms, and a US-17 location that splits the difference between the southern (Blackmoor/True Blue) and northern (Arrowhead/King's North) clusters. Multiple Hampton Inns and Hilton Garden Inns sit on Kings Hwy with similar pricing — pick whichever has best rates for the dates.",
+      "approx_price_per_night_usd": "$130-$220"
+    },
+    {
+      "name": "True Blue Golf Resort Condo Rentals",
+      "type": "rental",
+      "area": "Pawleys Island",
+      "why": "On-property 2-3 BR condos at True Blue itself. The 'wake up, walk to the first tee' option for at least one round of the trip. Kitchens, washer/dryer, and golfer-targeted layouts (mud rooms, storage for sets). Best for groups of 6-8 splitting a multi-bedroom unit.",
+      "approx_price_per_night_usd": "$160-$280 per unit (often $50-70/golfer)"
+    },
+    {
+      "name": "Inlet Sports Lodge",
+      "type": "hotel",
+      "area": "Murrells Inlet",
+      "why": "Boutique 32-room lodge purpose-built for visiting golfers and anglers. Walk to MarshWalk dining, sits between Blackmoor and the Pawleys courses, in-house COSTA Coastal Kitchen for post-round meals. Smaller property means it books up — reserve early for a May weekend.",
+      "approx_price_per_night_usd": "$200-$310"
+    }
+  ],
+  "practice_facilities": [
+    {
+      "name": "Possum Trot Golf Club",
+      "type": "both",
+      "location": "North Myrtle Beach",
+      "notes": "Widely cited as the best public practice facility on the Grand Strand. Nine-acre setup with a 12,000 sq ft putting green, expansive grass range, dedicated short-game area, and indoor hitting nets for rainouts. Home of the Glens Group Golf Academy if anyone wants a quick lesson. Drop-in range access available without playing the course."
+    },
+    {
+      "name": "TPC Myrtle Beach",
+      "type": "both",
+      "location": "Murrells Inlet",
+      "notes": "Tournament-grade grass range, large putting green, chipping green, and practice bunkers. Practice facility access is included with greens fees if the group adds a fifth round, but they also accommodate range-only visits. Convenient to Blackmoor (5-7 min) for a pre-round warm-up if you're already staying in Pawleys."
+    },
+    {
+      "name": "Topgolf Myrtle Beach",
+      "type": "range",
+      "location": "Myrtle Beach (Robert Grissom Pkwy)",
+      "notes": "Not a serious tune-up venue, but the obvious evening activity. 70+ climate-controlled bays across three floors, full sports bar, HDTVs in every bay. Best used as the night-one social warm-up or a rain-day backup. Bring a credit card — bay rates run $30-$60/hr depending on time of day."
+    }
+  ],
+  "off_course_dining": [
+    {
+      "name": "Wicked Tuna",
+      "area": "MarshWalk, Murrells Inlet",
+      "cuisine": "seafood",
+      "must_try": "Tuna sashimi tower or the blackened mahi tacos",
+      "why": "Hook-to-plate with the restaurant's own fishing fleet bringing the catch in daily. Sushi bar plus traditional preparations. The crowd-pleasing first stop after Day 1 at Blackmoor — it's a 10-min drive from the course."
+    },
+    {
+      "name": "Drunken Jack's",
+      "area": "MarshWalk, Murrells Inlet",
+      "cuisine": "seafood",
+      "must_try": "She-crab soup and the chargrilled grouper",
+      "why": "A MarshWalk mainstay since the 1970s with the best panoramic inlet views and live music nightly. Order the hush puppies. This is the canonical Myrtle Beach golf-trip dinner — every group ends up here at least once."
+    },
+    {
+      "name": "Frank's Restaurant & Frank's Outback",
+      "area": "Pawleys Island",
+      "cuisine": "lowcountry",
+      "must_try": "Pecan-crusted grouper or any wood-grilled steak in the Outback (the open-air courtyard out back)",
+      "why": "Bon Appetit-featured 30-year fixture, considered the best fine-dining option on the south Grand Strand. Outback's outdoor wood-fire grill room is the move on a warm May evening. Reserve a week ahead for groups of 4+."
+    },
+    {
+      "name": "Bistro 217",
+      "area": "Pawleys Island",
+      "cuisine": "lowcountry",
+      "must_try": "Monster Bistro Burger or the seared tuna",
+      "why": "Chef-driven, Southern-meets-Pacific-Rim menu in 'downtown' Pawleys. Less formal than Frank's, easier to walk into without a reservation, and the burger is regularly cited as the best in the area."
+    },
+    {
+      "name": "Lee's Inlet Kitchen",
+      "area": "Murrells Inlet",
+      "cuisine": "seafood",
+      "must_try": "Shrimp and grits, fried flounder platter",
+      "why": "Family-run since 1948 — old-school Calabash-style fried seafood, the place the locals send you when you ask where they eat. Not on the MarshWalk, no view, but the food is the real Murrells Inlet."
+    },
+    {
+      "name": "Nance's Creek Front Restaurant",
+      "area": "Murrells Inlet",
+      "cuisine": "seafood",
+      "must_try": "Steamed oysters in season, or the seafood platter",
+      "why": "Operating since 1967 with the largest shellfish lease in South Carolina — they harvest their own oysters out of the marsh. Quintessential Lowcountry feel, no frills, no MarshWalk crowd."
+    }
+  ],
+  "airport_info": {
+    "primary": "MYR — Myrtle Beach International",
+    "distance_to_each_course_min": {
+      "blackmoor": 22,
+      "arrowhead": 12,
+      "true_blue": 30,
+      "kings_north": 15
+    },
+    "notes": "MYR is small, efficient, and right on US-17 Bypass — bag claim to rental car curb is usually 15 min. All major rental brands on-site; reserve an SUV or minivan for a foursome plus four sets of clubs (a midsize sedan will not fit). Avoid the temptation to fly into CHS (Charleston, 2h south) or ILM (Wilmington, 1.5h north) unless fares are dramatically lower — the drive eats a half day. Most courses are an easy reverse-commute from MYR; only True Blue/Pawleys requires a real 30+ min drive. Gas up before returning the car; the nearest cheap gas to MYR is on US-17 Bypass north of the airport."
+  },
+  "trip_tips": [
+    "Book tee times 60-90 days out for spring shoulder season (late May is peak — the Grand Strand calendar gets thick with golf groups in April-May). Use a single booking service (Myrtle Beach Golf Trips, Golfzon, or the Myrtle Beach Golf Passport) to consolidate confirmations and get package pricing rather than rack rates at each course.",
+    "Show up 45-60 minutes before tee time. Starters universally cite late arrivals as the #1 etiquette violation, and Myrtle Beach courses enforce no-show forfeit policies — miss your time, lose your money.",
+    "Tip the bag drop $2-3 per bag on arrival. Tip the beverage cart 15-20% on each order, not just at the end. Tip the club cleaner $5-10 per bag at round's end. Carry a roll of singles and fives — fifty bucks in small bills covers a foursome for a full day.",
+    "Pace of play target is 4:15-4:30 per round. Resort courses run carts only (cart path only after rain), so if your group plays ready golf and keeps up with the group ahead you'll finish without being pushed.",
+    "Beverage cart culture is real but read the room — most courses will sell beer from the first tee onward, but King's North and Arrowhead are 'nicer' tracks where over-served foursomes get a polite-but-firm word from the marshal. Save the volume rounds for the back nine.",
+    "Dress code is enforced: collared shirts, no tank tops, no denim, no cargo shorts at the upscale courses. King's North in particular has been known to turn players away at the pro shop for shorts that are too short. Pack like you're going to a country club, not the beach.",
+    "Cash bonus for the cart staff: if they're working hard keeping you watered on a hot day, a $20 at the end of the round buys you a friend for life — and on a four-day trip with the same crew of cart attendants in the area, that pays off.",
+    "Book at least one round at a 'twilight' rate (typically tees after 1pm) — half the green fee, often empty courses, and late May gives you 14+ hours of daylight, so an afternoon round finishes by 7pm. King's North at twilight is the value play of the trip.",
+    "Consolidate lodging into one base instead of moving hotels mid-trip. The Pawleys/Litchfield base works well for the recommended 4-course order because only King's North and Arrowhead require a 25-30 min drive — and you do those on consecutive days at the end of the trip."
+  ],
+  "sources": [
+    "https://www.travelmath.com/drive-distance/from/Murrells+Inlet,+SC/to/Myrtle+Beach,+SC",
+    "https://www.distance-cities.com/distance-pawleys-island-sc-to-north-myrtle-beach-sc",
+    "https://www.rome2rio.com/s/Myrtle-Beach-Airport-MYR/Pawleys-Island",
+    "https://www.currentresults.com/Weather/South-Carolina/Places/myrtle-beach-weather-in-may.php",
+    "https://weatherspark.com/y/20111/Average-Weather-in-Myrtle-Beach-South-Carolina-United-States",
+    "https://www.visitmyrtlebeach.com/article/seafood-live-music-views-your-guide-to-murrells-inlet-marshwalk-dining",
+    "https://marshwalk.com/dining/",
+    "https://hammockcoastsc.com/top-4-murrells-inlet-seafood-restaurants-not-on-the-marshwalk/",
+    "https://hammockcoastsc.com/whet-your-appetite-with-these-4-fine-dining-options-in-pawleys-island/",
+    "https://www.litchfieldbeach.com/",
+    "https://marinainnatgrandedunes.com/",
+    "https://www.myrtlebeachgolftrips.com/news/were-talking-about-practice-myrtle-beachs-top-5-range-facilities/",
+    "https://www.visitmyrtlebeach.com/article/where-to-practice-your-golf-game-in-myrtle-beach",
+    "https://topgolf.com/us/myrtle-beach/",
+    "https://www.myrtlebeachgolftrips.com/news/5-donts-for-your-myrtle-beach-golf-vacation/",
+    "https://golf.com/travel/tipping-golf-course-ultimate-guide-tips/",
+    "https://www.myrtlebeachgolftrips.com/news/golf-travel-essentials-what-to-pack-and-not-pack-for-a-myrtle-beach-golf-trip/",
+    "https://arrowheadcc.com/",
+    "https://www.myrtlebeachnational.com/kings-north-hole-by-hole/",
+    "https://blackmoor.com/",
+    "https://www.truebluegolf.com/"
+  ],
+  "research_notes": "Drive times are estimates based on published city-to-city distances (Murrells Inlet-Myrtle Beach ~13mi/20min; Pawleys-Myrtle Beach ~27mi/34-43min; MYR-Pawleys ~23mi/34min) cross-referenced with the specific course addresses: Blackmoor (6100 Longwood Dr, Murrells Inlet 29576), Arrowhead (1201 Burcale Rd, Myrtle Beach 29577), True Blue (900 Blue Stem Dr, Pawleys Island 29585), King's North (4900 National Dr, Myrtle Beach 29579 — 7mi west of MB on Hwy 501). Direct Google Maps queries between each specific course pair were not surfaced in WebSearch, so the matrix values are best-effort estimates that should be verified live in the app via a maps API at trip time. May 22-25 falls on Friday-Monday Memorial Day weekend — golf demand spikes; tee time availability should be confirmed ASAP and prices may be 15-20% above shoulder-season rates. Hotel prices are mid-2026 approximations from booking sites; live rates can swing significantly for a holiday weekend. Outlaws Bistro and Roz's were searched but did not surface as currently-operating Pawleys restaurants — Frank's and Bistro 217 are the two locks for the dining list there."
+}

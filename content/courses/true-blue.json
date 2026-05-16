@@ -1,0 +1,362 @@
+{
+  "id": "true-blue",
+  "name": "True Blue Golf Club",
+  "location": "Pawleys Island, SC",
+  "designer": "Mike Strantz",
+  "year_opened": 1998,
+  "course_type": "parkland / former indigo and rice plantation",
+  "par": 72,
+  "total_yardage_championship": 7126,
+  "rating_slope": {
+    "championship": "74.5 / 138 (Gold, 7,126 yds)",
+    "back": "71.1 / 132 (White, 6,375 yds)",
+    "middle": "68.2 / 123 (Black, 5,736 yds)",
+    "forward": "69.3 / 125 (Green, 4,995 yds)"
+  },
+  "official_website": "https://www.truebluegolf.com",
+  "phone": "(843) 235-0900 (local) / (888) 483-6800 (toll free)",
+  "address": "900 Blue Stem Drive, Pawleys Island, SC 29585",
+  "history": {
+    "summary": "True Blue opened to a chorus of superlatives in February 1998 as Mike Strantz's fourth signature design — and the second of two courses he carved out of adjacent Pawleys Island acreage that had spent centuries as the indigo and rice plantation from which the property takes its name. The original True Blue plantation house was built in 1798, and the land's soft elevation rolls, sandy soil and old plantation watercourses gave Strantz exactly the kind of canvas he hungered for. Living in Charleston during construction, he'd drive up each evening in jeans and a T-shirt, often the first on site and the last to leave, walking holes backwards from green to tee, painting bunker edges by eye, and shaping corridors without the grading plans most architects rely on.\n\nFor his work at True Blue and its sister course Caledonia (just across the road), Strantz was named Golf World's Architect of the Year in 1998, and in 2000 Golfweek named him one of the top 10 greatest golf architects of all time. He completed only nine signature designs before dying of cancer in 2005 at age 50 — which is why a True Blue tee time is now treated by architecture buffs as a pilgrimage. The course is openly indebted to Pine Valley and Pinehurst No. 2, but where Caledonia is pure Lowcountry ballet — live oaks, Spanish moss, an Augusta-like drive in — True Blue is rock and roll: bigger, bolder, sandier, more theatrical. Both courses are now operated under the Mystic Golf umbrella and consistently rank in Golfweek's and Golf Digest's national top-100 public lists.",
+    "key_facts": [
+      "Opened February 1998 as Mike Strantz's fourth signature design",
+      "Built on the site of the historic True Blue Plantation (1798), once a thriving rice and indigo operation worked by 185 enslaved people of African descent",
+      "Sister course to Caledonia Golf & Fish Club (1994) — the two are across the road from one another and share ownership",
+      "Earned Strantz the Golf World 'Architect of the Year' award in 1998",
+      "Strantz, one of only nine architects to have his signature on every course he designed, died of cancer in 2005 at age 50",
+      "Ranked No. 77 on Golf Magazine's Top 100 Public Courses in America and No. 30 in Golf Digest's Best in South Carolina",
+      "Awarded 4 1/2 stars by Golf Digest; named one of the top public courses in the South"
+    ]
+  },
+  "overview": {
+    "how_it_plays": "True Blue is what happens when an art-school dropout turned turfgrass major gets a former plantation and zero corporate guardrails. The fairways are absurdly wide — sometimes 80 yards across — but they tilt, twist and pour toward sandy waste areas that swallow timid shots whole. There is almost no traditional rough; the course is fairway, sand, water or green, and the architecture funnels everything you do toward consequence. Greens are huge, often 40-plus yards deep with multiple shelves, and pin position dictates the difficulty more than yardage does. From the tips True Blue stretches to 7,126 yards (74.5/138), but the three par fives between 599 and 624 yards are what really lengthen it.\n\nThe optical trickery is the giveaway that this is a Strantz. Tee shots that look like forced carries are actually wide-open bailouts; the 'safe' side of the fairway routinely adds 50 yards to your approach; doglegs disguise themselves as straight holes and vice versa. Play it once and you'll lose balls in places that look like fairway. Play it twice and it starts to feel like the best round of your year.",
+    "difficulty": "Genuinely difficult from the back tees (74.5/138) but generous and playable from forward markers thanks to ultra-wide fairways and few forced carries. Difficulty scales sharply with pin position and tee selection rather than length alone.",
+    "signature_features": [
+      "Cinematic sandy waste areas that frame nearly every hole",
+      "Massive multi-tiered greens (some over 50 yards front-to-back)",
+      "Strantz 'misdirection' tee shots — the obvious line is rarely the smart one",
+      "Almost no traditional rough — it's fairway, sand, water, or green",
+      "Hourglass-shaped greens (notably Nos. 3 and 11)",
+      "Surprising elevation changes for a Lowcountry property",
+      "Visual contrast between brilliant green turf, blond sandy wastes and dark Lowcountry water"
+    ],
+    "best_for": "Players who appreciate bold, theatrical design — the architecture-curious, Pine Valley admirers, anyone who wants a course that asks them to think rather than just swing."
+  },
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "yardages": { "championship": 624, "back": null, "middle": null, "forward": null },
+      "name": null,
+      "handicap": 1,
+      "description": "Strantz gives you no warm-up. The opening hole is a 624-yard dogleg-left par 5 — the longest and statistically hardest hole on the course. A waste bunker runs the entire left side; an imposing bunker complex on the right signals the bend. A small stream fronts a tricky plateau green, and a deep bunker wrapping the putting surface is so cavernous it requires stairs to climb out of.",
+      "local_knowledge": "Three controlled shots beats two heroic ones. Aim down the right-center off the tee to keep the left waste in your peripheral vision, lay up to a comfortable wedge yardage, and respect the creek — short of the green is a much easier up-and-down than left or long.",
+      "hazards": ["Waste bunker entire left side", "Right-side bunker complex", "Creek fronting green", "Deep stair-access greenside bunker"],
+      "is_signature": false
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "yardages": { "championship": null, "back": null, "middle": null, "forward": null },
+      "name": null,
+      "handicap": null,
+      "description": "A short par 4 to a generous fairway. You can run out of room on the left and a large waste area runs up the right. The green is multi-tiered and narrows severely at the front.",
+      "local_knowledge": "Don't reach for driver — a hybrid or long iron leaves a full wedge, which you'll want into this tiered green. Check the pin: front pins are tucked behind the narrow neck, back pins are easier to access but a long putt away if you miss the level.",
+      "hazards": ["Left fairway run-out", "Right waste area"],
+      "is_signature": false
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "yardages": { "championship": 190, "back": null, "middle": 141, "forward": 103 },
+      "name": null,
+      "handicap": null,
+      "description": "A do-or-die par 3 over water to a long hourglass green angled from front-right to back-left. The waist of the hourglass is the trap — short-siding yourself is a real possibility from the wrong tier.",
+      "local_knowledge": "Club selection here is everything. Play to the fat half of the hourglass on your side of the pin — never the waist. Wind off the water is usually understated; take one more club than the yardage says.",
+      "hazards": ["Water carry", "Bunkers framing the hourglass"],
+      "is_signature": true
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "yardages": { "championship": 548, "back": 523, "middle": 493, "forward": 417 },
+      "name": null,
+      "handicap": null,
+      "description": "Strantz's best birdie chance on the front nine — a reachable par 5 that rewards two well-struck shots back-to-back. The green is flanked by water left and grass swales right, and the putting surface cants right-to-left, so chipping from the right is unnerving.",
+      "local_knowledge": "Middle-or-left off the tee gives you the shortest line in. If you're going for it in two, miss left into the swale rather than right — chipping back against the right-to-left cant toward water is the worst miss on the property.",
+      "hazards": ["Water left of green", "Grass swales right of green"],
+      "is_signature": false
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "yardages": { "championship": 433, "back": null, "middle": null, "forward": null },
+      "name": null,
+      "handicap": null,
+      "description": "Pure Strantz misdirection. The safest, widest part of the fairway is clearly out to the right — but the hole doglegs left. A massive waste bunker guards the inside of the dogleg. The green is enormous (40 yards deep, just as wide) with a mound front-left and otherwise subtle, hard-to-read breaks.",
+      "local_knowledge": "Head pro Bart Romano describes this as the most deceptive tee shot on the course. Bailing right is honest yardage punishment — 30 to 50 extra yards in. If you can carry the left waste, do it; the reward is a flip wedge.",
+      "hazards": ["Large left waste bunker", "Subtle green slopes"],
+      "is_signature": false
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "yardages": { "championship": 383, "back": null, "middle": null, "forward": null },
+      "name": "Double Vision / Double Trouble",
+      "handicap": null,
+      "description": "A forced carry over a hazard is mandatory off the tee. The hole's quirk is two greens — one left, one right — used in rotation. The visual disorientation off the tee is the hole's signature.",
+      "local_knowledge": "Ask the starter or check the pin sheet which green is in play that day. Aim down whichever side matches the pin — playing to the wrong corridor leaves an absurdly awkward approach across the property.",
+      "hazards": ["Forced carry off tee", "Twin greens"],
+      "is_signature": false
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "yardages": { "championship": 151, "back": null, "middle": null, "forward": null },
+      "name": null,
+      "handicap": null,
+      "description": "A short par 3 that's all about club selection. A deep, hungry bunker fronts the green; the green itself slopes sharply right-to-left.",
+      "local_knowledge": "Take enough club to clear the front bunker — getting out of it cleanly is a feat. Aim right-center and let the slope feed you toward the pin; trying to land it left is a recipe for short-siding.",
+      "hazards": ["Deep front bunker", "Severe right-to-left green slope"],
+      "is_signature": false
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "yardages": { "championship": 341, "back": null, "middle": null, "forward": null },
+      "name": null,
+      "handicap": null,
+      "description": "A short dogleg-right par 4. Big hitters can carry the right corner; approach shots have to land on the green or risk rolling back into the fairway thanks to a false front.",
+      "local_knowledge": "If you can carry it 270+ over the right corner you'll have a flip wedge in. Everyone else should hit a 3-wood/hybrid to the corner — and whatever you do, fly the ball all the way onto the putting surface. Anything short trickles 20 yards back down the slope.",
+      "hazards": ["Right-corner waste", "False front green"],
+      "is_signature": false
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "yardages": { "championship": 517, "back": null, "middle": null, "forward": null },
+      "name": null,
+      "handicap": null,
+      "description": "First-timers struggle with the visuals off this tee. The fairway doglegs right and then back to the left — a true S-curve par 5 that hides its actual line behind tree corners and sandy waste.",
+      "local_knowledge": "Ignore what your eyes are telling you and aim for the right-center of the visible fairway off the tee. After that, the lay-up zone opens up to the left. Strantz built this hole to look like a series of forced carries — almost none of them actually are.",
+      "hazards": ["S-curve waste areas", "Optical illusion fairway"],
+      "is_signature": false
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "yardages": { "championship": null, "back": null, "middle": null, "forward": null },
+      "name": null,
+      "handicap": null,
+      "description": "A solid two- or three-shot par 5 that opens the back nine. Reachable for long hitters with a strong approach, but the green complex is heavily defended.",
+      "local_knowledge": "Pick your number for the lay-up rather than auto-firing for the green in two. Strantz set this up to reward a precise wedge — eating up yardage just to leave a 60-yard half-shot is the wrong play.",
+      "hazards": ["Greenside bunkering"],
+      "is_signature": false
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "yardages": { "championship": 184, "back": null, "middle": 130, "forward": null },
+      "name": null,
+      "handicap": null,
+      "description": "One of the tamer Strantz par 3s on paper — a forced carry over an expansive waste area to a warped, hourglass-shaped green guarded by one of the biggest bunkers on the property. Subtle nuisances fool first-time players.",
+      "local_knowledge": "From the back the carry is intimidating; from the middle (130) it's a legitimate birdie hole. Take note of which lobe of the hourglass the pin is in and aim accordingly — putting across the waist of this green is no fun.",
+      "hazards": ["Waste-area carry", "Massive greenside bunker", "Hourglass green"],
+      "is_signature": false
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "yardages": { "championship": 371, "back": null, "middle": null, "forward": null },
+      "name": null,
+      "handicap": null,
+      "description": "An inviting tee shot with a garden-like feel framing the box. Balls hit right find waste; the fairway has room for anything from a long iron to driver. The green is ringed by bunkers short, left, right and long — none especially deep.",
+      "local_knowledge": "When the pin is in the very back, leave your approach short of the hole — the back tier is firm and feeds long. The bunkers here are some of the most playable on the course, so don't be afraid to take the shorter, more aggressive line in.",
+      "hazards": ["Right waste area", "Four greenside bunkers"],
+      "is_signature": false
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "yardages": { "championship": null, "back": null, "middle": null, "forward": null },
+      "name": null,
+      "handicap": null,
+      "description": "A short dogleg par 4 with a green and approach completely encircled by sand — a template Strantz lifted straight from Pine Valley. The bowl-shaped green collects approach shots that find the surface.",
+      "local_knowledge": "If you hit the green, you'll likely have a putt. If you miss it, you'll likely be in sand. Position over power off the tee — leave a full wedge yardage, then take an extra club and let the bowl gather it. This is one of the world-class green complexes on the course.",
+      "hazards": ["Sand encircling the green"],
+      "is_signature": false
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "yardages": { "championship": 158, "back": null, "middle": 134, "forward": null },
+      "name": null,
+      "handicap": null,
+      "description": "A short, downhill par 3 to another hourglass green, guarded by one of the largest bunkers on the property. Plays anywhere from 158 down to 134 depending on tee.",
+      "local_knowledge": "Downhill plus prevailing wind means it almost always plays at least a club shorter than yardage. Aim at the fat of the hourglass under the pin — if you go pin-hunting at the waist and miss, the recovery is brutal.",
+      "hazards": ["Massive front-side bunker", "Hourglass green"],
+      "is_signature": false
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "yardages": { "championship": null, "back": null, "middle": null, "forward": null },
+      "name": null,
+      "handicap": null,
+      "description": "The last of True Blue's five par 5s, a risk-reward three-shotter that wiggles to a splendid elevated green. Go a few yards too far on the lay-up and you're staring up a large slope to the putting surface.",
+      "local_knowledge": "Find the right lay-up yardage rather than the closest one. Coming up the hill on the slope is one of the toughest shots on the back nine; an extra 20 yards short leaves a much cleaner uphill wedge.",
+      "hazards": ["Approach slope to elevated green"],
+      "is_signature": false
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "yardages": { "championship": 208, "back": null, "middle": null, "forward": null },
+      "name": null,
+      "handicap": null,
+      "description": "The visual highlight of the course. Par 3s rarely combine length, sand and water — No. 16 has all three. A diamond-shaped green sits above sandy banks that fall into a pond on the right; a skinny waste bunker separates the pond from the green, and a 'crazy big one' wraps the left. Strantz could have painted it on canvas.",
+      "local_knowledge": "From the back this is one of the hardest shots on the course — the smart miss is left into the big bunker. Right is dead. From forward tees, play to the center of the diamond and take your par.",
+      "hazards": ["Water entire right side", "Skinny right waste bunker", "Massive left bunker"],
+      "is_signature": true
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "yardages": { "championship": null, "back": null, "middle": null, "forward": null },
+      "name": null,
+      "handicap": null,
+      "description": "Water runs the entire right side of the fairway — the first thing you see from the tee box. The hole asks for a confident drive down the left-center; longer hitters need to favor the left side even more.",
+      "local_knowledge": "There's more room left than the tee shot suggests. Aim at the left edge of the fairway and let your natural shape work back. The water doesn't actually narrow much past the landing zone — it's the eye that's narrowing, not the corridor.",
+      "hazards": ["Water entire right side"],
+      "is_signature": false
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "yardages": { "championship": 406, "back": null, "middle": null, "forward": null },
+      "name": null,
+      "handicap": null,
+      "description": "Strantz's iconic closer and — arguably — the most precision-demanding par 4 on the property. Blue water runs the entire left side; a large waste bunker swallows anything that slides right. The fairway and lead-in to the green wind so much that the water visually masks the actual shape. The green is over 50 yards front-to-back, angled back-left to front-right, and slopes down toward the water.",
+      "local_knowledge": "The fairway is wider than your eyes tell you — commit to the line. On the approach, take an extra club: short and right leaves the easiest up-and-down, long and left is wet. The Grillroom's patio overlooks this green, so play it like there's an audience — usually because there is.",
+      "hazards": ["Water entire left side", "Right-side waste bunker", "Angled green sloping toward water"],
+      "is_signature": true
+    }
+  ],
+  "signature_hole_numbers": [3, 16, 18],
+  "reviews": [
+    {
+      "quote": "Caledonia is ballet and True Blue is rock and roll.",
+      "source": "GolfPass",
+      "author": "Brandon Tucker",
+      "date": null,
+      "url": "https://www.golfpass.com/travel-advisor/articles/caledonia-true-blue-myrtle-beach-golf-course-review"
+    },
+    {
+      "quote": "True Blue is bolder and more interpretive, with Strantz vamping on Pinehurst No. 2 and Pine Valley to craft big-boned golf holes bordered by appealing sandy wastes.",
+      "source": "GolfPass — Caledonia vs. True Blue",
+      "author": "Brandon Tucker",
+      "date": null,
+      "url": "https://www.golfpass.com/travel-advisor/articles/caledonia-true-blue-myrtle-beach-golf-course-review"
+    },
+    {
+      "quote": "When a golf course does not force players to think, the game becomes dull and monotonous — a walk in a well landscaped park.",
+      "source": "Mike Strantz, design philosophy (quoted in GolfWRX/Play Golf Myrtle Beach coverage)",
+      "author": "Mike Strantz",
+      "date": null,
+      "url": "https://www.playgolfmyrtlebeach.com/news/golf-course-review-true-blue-is-bold-beautifu/"
+    },
+    {
+      "quote": "True Blue is one of the most creative golf courses you'll ever play and certainly one of the most artistic. There are no boring straight-away holes — the imagination and artistry of Mike Strantz is something to behold.",
+      "source": "GolfPass reviewer",
+      "author": "GolfPass user",
+      "date": null,
+      "url": "https://www.golfpass.com/travel-advisor/courses/1822-true-blue-golf-club"
+    },
+    {
+      "quote": "The architecture of True Blue is up there with the best courses in the world. The greens were the best I played all year — putts rolling true and very few bumpy putts.",
+      "source": "GolfPass review (composite)",
+      "author": "GolfPass user",
+      "date": null,
+      "url": "https://www.golfpass.com/travel-advisor/courses/1822-true-blue-golf-club"
+    },
+    {
+      "quote": "True Blue is a must play!! One of the nicest golf courses I have ever played — some of the holes on that course will mesmerize you while waiting your turn on the tee box.",
+      "source": "Tripadvisor",
+      "author": "Tripadvisor reviewer",
+      "date": null,
+      "url": "https://www.tripadvisor.com/Attraction_Review-g54384-d580859-Reviews-True_Blue_Golf_Course-Pawleys_Island_South_Carolina.html"
+    },
+    {
+      "quote": "Strantz's philosophy was simple but radical: golf should be visual theater, a dramatic conversation between the player and the landscape, with every hole telling a story.",
+      "source": "LINKS Magazine — The Mind-Blowing Legacy of Mike Strantz",
+      "author": "LINKS Magazine",
+      "date": null,
+      "url": "https://linksmagazine.com/the-mind-blowing-legacy-of-mike-strantz/"
+    }
+  ],
+  "clubhouse": {
+    "name": "True Blue Grillroom (with adjoining Tavern)",
+    "atmosphere": "Upscale-but-relaxed Lowcountry clubhouse with patio seating overlooking the award-winning 18th green. Several TVs at the bar, indoor and outdoor dining, and a steady hum of post-round handicapping arguments.",
+    "must_try": [
+      "New England clam chowder at the turn — a True Blue tradition that's become part of the course's identity",
+      "Biscuits and gravy at breakfast",
+      "Eggs Benedict",
+      "Daily lunch specials (rotating seafood and Southern favorites)",
+      "Burgers and barbecue from the lunch menu"
+    ],
+    "signature_drink": "Cold local craft beer on the 18th-green patio after the round (full bar with craft beer, wines and cocktails)",
+    "hours": "Breakfast 7am–3pm; Lunch 11am–3pm; Tavern open 10am–dusk daily",
+    "notes": "Request patio seating if the weather cooperates — the 18th-green view is the same one Strantz designed the hole to deliver. The clam chowder at the turn is genuinely famous and worth interrupting the round for."
+  },
+  "course_flyover_urls": [
+    "https://www.truebluegolf.com/hole-by-hole-flyovers/",
+    "https://www.truebluegolf.com/news/aerial-tour-true-blues-dramatic-finishing-hole/"
+  ],
+  "hero_imagery_urls": [
+    "https://www.truebluegolf.com/photo-tour/",
+    "https://www.myrtlebeachgolftrips.com/news/true-blue-golf-club-hole-by-hole-aerial-photos/"
+  ],
+  "sources": [
+    "https://www.truebluegolf.com/news/true-blue-our-story/",
+    "https://www.truebluegolf.com/news/the-artist-across-the-road-mike-strantz-at-true-blue-and-caledonia/",
+    "https://www.truebluegolf.com/scorecard/",
+    "https://www.truebluegolf.com/about/",
+    "https://www.truebluegolf.com/wp-content/uploads/2021/11/True-Blue-Scorecard.pdf",
+    "https://www.truebluegolf.com/news/strantz-spotlight-no-11-at-true-blue-golf-club/",
+    "https://www.truebluegolf.com/news/hole-spotlight-true-blue-1/",
+    "https://www.truebluegolf.com/news/hole-spotlight-true-blue-3/",
+    "https://www.truebluegolf.com/news/no-6-at-true-blue-double-vision-or-double-trouble/",
+    "https://www.truebluegolf.com/news/video-hole-spotlight-no-4-at-true-blue/",
+    "https://www.truebluegolf.com/news/strantz-spotlight-the-par-5-no-10-at-true-blue/",
+    "https://www.truebluegolf.com/news/aerial-tour-true-blues-dramatic-finishing-hole/",
+    "https://www.truebluegolf.com/dining/",
+    "https://www.truebluegolf.com/news/stellar-breakfast-lunch-options-at-true-blues-grillroom/",
+    "https://www.golfpass.com/travel-advisor/courses/1822-true-blue-golf-club",
+    "https://www.golfpass.com/travel-advisor/articles/caledonia-true-blue-myrtle-beach-golf-course-review",
+    "https://www.golfdigest.com/courses/sc/true-blue-golf-club",
+    "https://www.top100golfcourses.com/golf-course/true-blue",
+    "https://www.playgolfmyrtlebeach.com/courses/true-blue-golf-club/",
+    "https://www.playgolfmyrtlebeach.com/news/myrtle-beach-golf-hole-of-the-week-true-blue-golf-club-no-4/",
+    "https://www.playgolfmyrtlebeach.com/news/true-blue-golf-plantation-three-best-holes/",
+    "https://www.playgolfmyrtlebeach.com/news/strantzs-magic-continues-shine-true-blue-caledonia/",
+    "https://www.playgolfmyrtlebeach.com/news/golf-course-review-true-blue-is-bold-beautifu/",
+    "https://www.myrtlebeachgolftrips.com/news/our-favorites-true-blues-top-five-holes/",
+    "https://www.myrtlebeachgolftrips.com/news/how-to-conquer-true-blue-5-tips-to-help-play-your-best-golf/",
+    "https://caledoniagolfvacations.com/blog/strantz-spotlight-17-at-true-blue/",
+    "https://caledoniagolfvacations.com/blog/hole-spotlight-true-blue-14/",
+    "https://caledoniagolfvacations.com/blog/the-maritime-explorers-take-on-true-blues-holes-13-18/",
+    "https://caledoniagolfvacations.com/blog/the-players-digest-true-blue-golf-club/",
+    "https://forums.golfwrx.com/discussion/512542/true-blue-golf-plantation",
+    "https://forums.golfwrx.com/topic/659808-true-blue-golf-plantation/",
+    "https://linksmagazine.com/the-mind-blowing-legacy-of-mike-strantz/",
+    "https://www.thefriedegg.com/architects/mike-strantz",
+    "https://www.yelp.com/biz/true-blue-golf-course-pawleys-island",
+    "https://www.tripadvisor.com/Attraction_Review-g54384-d580859-Reviews-True_Blue_Golf_Course-Pawleys_Island_South_Carolina.html",
+    "https://south-carolina-plantations.com/georgetown/true-blue.html",
+    "https://hammockcoastgolftrail.com/true-blue-golf-club/",
+    "https://themaritimeexplorer.ca/2018/04/19/true-blue/",
+    "https://www.golfcoursegurus.com/reviews/true-blue-golf-club/",
+    "https://course.bluegolf.com/bluegolf/course/course/trueblue/index.htm"
+  ],
+  "research_notes": "Strongest sources: official truebluegolf.com hole-spotlight pages, GolfPass's Caledonia-vs-True-Blue feature (best single piece of writing about the property), the Maritime Explorer hole-by-hole walkthrough, and LINKS Magazine's Strantz legacy piece. Gaps: exact yardages and handicap rankings were not consistently available for every hole at every tee — championship-tee yardages are filled where confirmed (1, 3, 4, 5, 6, 7, 8, 9, 11, 12, 14, 16, 18); the rest of the per-tee yardage matrix needs to be lifted directly from the PDF scorecard at truebluegolf.com/wp-content/uploads/2021/11/True-Blue-Scorecard.pdf, which web_fetch was blocked from retrieving (host not on allowlist). Stroke-index/handicap-per-hole data is missing for the same reason; only the #1 handicap (hole 1) is confirmed. Hole names are mostly unofficial — only No. 6 ('Double Vision'/'Double Trouble') has a confirmed name in club marketing. The Grillroom hours/menu pulled from the official Dining page and the 'What's On The Menu' news post. Reviews lean on GolfPass user composites, Tripadvisor, LINKS, and a Strantz quote that is widely attributed but worth verifying against a primary source before publication. No Reddit r/golf or GolfWRX thread quotes are included verbatim because the threads weren't fetchable for direct excerpts — would be a strong addition if the host allowlist were expanded."
+}
